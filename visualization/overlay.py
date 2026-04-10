@@ -225,30 +225,60 @@ class VisualizationOverlay:
             for (x1, y1), (x2, y2) in self.step_regions
         ]
 
-    def draw_dashboard(self, frame: np.ndarray, simulation_started: bool, driving_active: bool, camera_ready: bool) -> None:
-        """Draw the simulation-style dashboard and step cards."""
+    def draw_dashboard(self, frame: np.ndarray, simulation_started: bool, driving_active: bool, camera_ready: bool, monochrome: bool = False) -> None:
+        """Draw the simulation-style dashboard and step cards.
+
+        If `monochrome` is True, render a simplified black-and-white
+        interface intended for the initial idle screen. Text is wrapped
+        so it remains inside the UI bounds.
+        """
         h, w = frame.shape[:2]
-        self._draw_gradient_background(frame, (15, 20, 30), (36, 51, 76))
 
-        accent_overlay = frame.copy()
-        cv2.circle(accent_overlay, (w - 62, 78), 84, (76, 124, 214), -1)
-        cv2.circle(accent_overlay, (58, h - 74), 102, (34, 84, 154), -1)
-        cv2.circle(accent_overlay, (w - 220, h - 26), 140, (18, 42, 87), -1)
-        cv2.addWeighted(accent_overlay, 0.22, frame, 0.78, 0, frame)
+        if monochrome:
+            # Clear to black
+            frame[:] = (0, 0, 0)
 
-        self._draw_badge(frame, "POSTE DE CONTROLE", (28, 20), (50, 66, 104), self.COLORS["text"], 0.5)
-        cv2.putText(
-            frame,
-            "SIMULATION DE CONDUITE",
-            (28, 82),
-            cv2.FONT_HERSHEY_DUPLEX,
-            1.0,
-            self.COLORS["text"],
-            2,
-            cv2.LINE_AA,
-        )
-        desc = "Une interface plus claire pour piloter le lancement, la camera et la surveillance."
-        self._draw_wrapped_text(frame, desc, (28, 110), self._max_text_width(frame, 28, 28), font=self.font_medium, scale=0.53, color=(219, 227, 235), thickness=1)
+            header_h = 72
+            # header area (black background with white badge)
+            cv2.rectangle(frame, (0, 0), (w, header_h), (0, 0, 0), -1)
+            self._draw_badge(frame, "POSTE DE CONTROLE", (18, 12), (255, 255, 255), (0, 0, 0), 0.5)
+            self._draw_wrapped_text(frame, "INTERFACE DE SURVEILLANCE", (28, 48), self._max_text_width(frame, 28, 28), font=self.font_medium, scale=0.9, color=(245, 245, 245), thickness=1)
+
+            # Main panel with subtle white border
+            margin = 20
+            panel_tl = (margin, header_h + 8)
+            panel_br = (w - margin, h - margin)
+            self._draw_panel(frame, panel_tl, panel_br, (20, 20, 20), alpha=0.98, border_color=(220, 220, 220))
+
+            # Large central status card
+            card_x = panel_tl[0] + 24
+            card_y = panel_tl[1] + 24
+            card_w = min(800, panel_br[0] - card_x - 24)
+            card_h = 140
+            self._draw_panel(frame, (card_x, card_y), (card_x + card_w, card_y + card_h), (28, 28, 28), alpha=0.98, border_color=(200, 200, 200))
+            status = "SYSTEME EN ATTENTE" if not simulation_started else "SIMULATION PRETE"
+            self._draw_wrapped_text(frame, f"STATUT: {status}", (card_x + 14, card_y + 34), card_w - 28, font=self.font_medium, scale=0.85, color=(245, 245, 245), thickness=1)
+            self._draw_wrapped_text(frame, "Appuyez sur 1 pour lancer la simulation. 2 pour demarrer la conduite.", (card_x + 14, card_y + 74), card_w - 28, font=self.font_medium, scale=0.6, color=(200, 200, 200), thickness=1)
+
+            # Small metrics column to the right inside panel
+            small_w = 220
+            small_h = 72
+            sx = card_x + card_w + 18
+            sy = card_y
+            metrics = [("CAMERAS", "Non connectee"), ("ALARMES", "0"), ("PRESENCE", "Aucune")]
+            for i, (t, v) in enumerate(metrics):
+                cy = sy + i * (small_h + 12)
+                if sx + small_w + 16 > panel_br[0]:
+                    sx = card_x
+                    cy = card_y + card_h + 18 + i * (small_h + 12)
+                self._draw_panel(frame, (sx, cy), (sx + small_w, cy + small_h), (24, 24, 24), alpha=0.98, border_color=(200, 200, 200))
+                self._draw_wrapped_text(frame, t, (sx + 12, cy + 22), small_w - 24, font=self.font_small, scale=0.6, color=(210, 210, 210), thickness=1)
+                self._draw_wrapped_text(frame, v, (sx + 12, cy + 50), small_w - 24, font=self.font_medium, scale=0.72, color=(245, 245, 245), thickness=1)
+
+            # Footer note inside panel, wrapped
+            foot_y = panel_br[1] - 42
+            self._draw_wrapped_text(frame, "Interface monochrome — textes confinés au cadre.", (card_x + 12, foot_y), panel_br[0] - card_x - 36, font=self.font_small, scale=0.5, color=(180, 180, 180), thickness=1)
+            return
 
         if driving_active:
             status_text = "VEHICULE EN MARCHE"
@@ -350,20 +380,14 @@ class VisualizationOverlay:
 
     def compose_driving_view(self, camera_frame: np.ndarray, simulation_started: bool, driving_active: bool, camera_ready: bool) -> np.ndarray:
         """Combine live camera feed with the dashboard side panel."""
+        # Instead of composing a separate side-panel canvas, draw the
+        # secondary dashboard elements directly onto the camera frame so
+        # the interface is overlaid on the image itself.
         h, w = camera_frame.shape[:2]
-        canvas = np.zeros((h, w + self.dashboard_width, 3), dtype=np.uint8)
-        canvas[:, :w] = camera_frame
-        panel = canvas[:, w:]
-        self.draw_dashboard(
-            panel,
-            simulation_started=simulation_started,
-            driving_active=driving_active,
-            camera_ready=camera_ready,
-        )
-        self._draw_badge(canvas, "CAMERA CONDUCTEUR", (18, h - 52), (23, 33, 48), self.COLORS["camera_label"], 0.52)
-        # show window/canvas size for debugging and info
-        self.draw_window_size(canvas)
-        return canvas
+        # Add a small badge identifying the camera and window size info.
+        self._draw_badge(camera_frame, "CAMERA CONDUCTEUR", (18, h - 52), (23, 33, 48), self.COLORS["camera_label"], 0.52)
+        self.draw_window_size(camera_frame)
+        return camera_frame
 
     def draw_window_size(self, frame: np.ndarray) -> None:
         """Draw the current canvas/window size as a small badge."""
@@ -607,3 +631,15 @@ class VisualizationOverlay:
             cv2.circle(frame, point, 2, (255, 198, 92), -1)
         for point in mouth:
             cv2.circle(frame, point, 2, (95, 170, 255), -1)
+
+    def draw_full_landmarks(self, frame: np.ndarray, points: list[tuple[int, int]], color: Tuple[int, int, int] = (200, 240, 200)) -> None:
+        """Draw all face mesh landmarks as small dots.
+
+        `points` is a list of (x, y) coordinates in image space.
+        """
+        if not points:
+            return
+        for (x, y) in points:
+            # draw a subtle outer dot and a brighter inner dot for visibility
+            cv2.circle(frame, (x, y), 2, (40, 40, 40), -1)
+            cv2.circle(frame, (x, y), 1, color, -1)
