@@ -1,0 +1,829 @@
+2026-03-25 02:30:55,578 - INFO - logger - Initializing system components...
+2026-03-25 02:30:55,596 - INFO - logger - FaceDetector initialized successfully
+2026-03-25 02:31:03,199 - INFO - logger - Camera initialized: 640x480
+2026-03-25 02:31:03,200 - INFO - logger - System initialized successfully
+2026-03-25 02:31:03,201 - INFO - logger - Starting main detection loop
+2026-03-25 02:31:03,201 - INFO - logger - Press 'Q' to quit
+2026-03-25 02:31:05,233 - INFO - logger - Mouth calibrated: MAR=0.200
+2026-03-25 02:31:05,632 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:31:05,887 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:31:05,889 - INFO - logger - Persistent alarm activated
+2026-03-25 02:31:05,905 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 02:31:06,962 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:31:08,437 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 02:31:08,437 - INFO - logger - Persistent alarm deactivated
+2026-03-25 02:31:12,639 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:31:12,898 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:31:12,900 - INFO - logger - Persistent alarm activated
+2026-03-25 02:31:16,240 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 02:31:17,320 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:31:18,794 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 02:31:18,794 - INFO - logger - Persistent alarm deactivated
+2026-03-25 02:31:31,762 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:31:32,906 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:31:56,719 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:31:56,988 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:31:56,989 - INFO - logger - Persistent alarm activated
+2026-03-25 02:31:59,714 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 02:32:00,787 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:32:02,206 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 02:32:02,207 - INFO - logger - Persistent alarm deactivated
+2026-03-25 02:32:07,073 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:32:07,343 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:32:07,344 - INFO - logger - Persistent alarm activated
+2026-03-25 02:32:07,828 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 02:32:08,883 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:32:10,303 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 02:32:10,304 - INFO - logger - Persistent alarm deactivated
+2026-03-25 02:32:13,425 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:32:13,698 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:32:13,700 - INFO - logger - Persistent alarm activated
+2026-03-25 02:32:17,919 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 02:32:18,994 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:32:20,465 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 02:32:20,466 - INFO - logger - Persistent alarm deactivated
+2026-03-25 02:32:24,799 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:32:25,075 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:32:25,078 - INFO - logger - Persistent alarm activated
+2026-03-25 02:32:29,346 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 02:32:30,416 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:32:31,833 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 02:32:31,834 - INFO - logger - Persistent alarm deactivated
+2026-03-25 02:32:44,025 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:32:44,279 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:32:44,281 - INFO - logger - Persistent alarm activated
+2026-03-25 02:32:44,324 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 02:32:45,345 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:32:46,816 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 02:32:46,816 - INFO - logger - Persistent alarm deactivated
+2026-03-25 02:32:50,768 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:32:51,023 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:32:51,024 - INFO - logger - Persistent alarm activated
+2026-03-25 02:32:51,552 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 02:32:52,575 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:32:54,031 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 02:32:54,031 - INFO - logger - Persistent alarm deactivated
+2026-03-25 02:33:07,956 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:33:08,223 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:33:08,225 - INFO - logger - Persistent alarm activated
+2026-03-25 02:33:17,570 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 02:33:18,638 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:33:20,118 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 02:33:20,119 - INFO - logger - Persistent alarm deactivated
+2026-03-25 02:33:25,265 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:33:25,480 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:33:25,482 - INFO - logger - Persistent alarm activated
+2026-03-25 02:33:31,747 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 02:33:32,815 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:33:34,240 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 02:33:34,240 - INFO - logger - Persistent alarm deactivated
+2026-03-25 02:33:39,187 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:33:39,568 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:33:41,666 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:33:42,523 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:33:46,475 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:33:47,324 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:33:49,818 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:33:50,072 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:33:50,074 - INFO - logger - Persistent alarm activated
+2026-03-25 02:33:51,821 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 02:33:52,882 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:33:54,353 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 02:33:54,354 - INFO - logger - Persistent alarm deactivated
+2026-03-25 02:33:57,953 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:33:58,176 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:33:58,177 - INFO - logger - Persistent alarm activated
+2026-03-25 02:34:00,431 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 02:34:01,455 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:34:02,928 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 02:34:02,928 - INFO - logger - Persistent alarm deactivated
+2026-03-25 02:34:07,060 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:34:08,207 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:34:13,076 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:34:13,282 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:34:25,996 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:34:26,383 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:34:54,880 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:34:55,136 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:34:55,138 - INFO - logger - Persistent alarm activated
+2026-03-25 02:34:58,288 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 02:34:59,357 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:35:00,831 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 02:35:00,832 - INFO - logger - Persistent alarm deactivated
+2026-03-25 02:35:08,003 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:35:08,260 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:35:08,262 - INFO - logger - Persistent alarm activated
+2026-03-25 02:35:12,665 - INFO - logger - Received interrupt signal
+2026-03-25 02:35:12,681 - INFO - logger - Shutting down system...
+2026-03-25 02:35:12,681 - INFO - logger - Persistent alarm deactivated
+2026-03-25 02:35:13,056 - INFO - logger - System shutdown complete
+2026-03-25 02:37:15,982 - INFO - logger - Initializing system components...
+2026-03-25 02:37:16,000 - INFO - logger - FaceDetector initialized successfully
+2026-03-25 02:37:25,735 - INFO - logger - Camera initialized: 640x480
+2026-03-25 02:37:25,735 - INFO - logger - System initialized successfully
+2026-03-25 02:37:25,736 - INFO - logger - Starting main detection loop
+2026-03-25 02:37:25,738 - INFO - logger - Press 'Q' to quit
+2026-03-25 02:37:27,749 - INFO - logger - Mouth calibrated: MAR=0.200
+2026-03-25 02:37:29,284 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:37:29,563 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:37:29,565 - INFO - logger - Persistent alarm activated
+2026-03-25 02:37:32,979 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 02:37:34,040 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:37:35,506 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 02:37:35,507 - INFO - logger - Persistent alarm deactivated
+2026-03-25 02:37:46,593 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:37:46,868 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:37:46,871 - INFO - logger - Persistent alarm activated
+2026-03-25 02:37:47,665 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 02:37:48,740 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:37:50,209 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 02:37:50,209 - INFO - logger - Persistent alarm deactivated
+2026-03-25 02:38:03,394 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:38:03,651 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:38:03,652 - INFO - logger - Persistent alarm activated
+2026-03-25 02:38:13,013 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 02:38:14,038 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:38:15,513 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 02:38:15,513 - INFO - logger - Persistent alarm deactivated
+2026-03-25 02:38:23,664 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:38:23,945 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:38:23,946 - INFO - logger - Persistent alarm activated
+2026-03-25 02:38:27,732 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 02:38:28,806 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:38:30,279 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 02:38:30,279 - INFO - logger - Persistent alarm deactivated
+2026-03-25 02:38:30,884 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:38:31,156 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:38:31,158 - INFO - logger - Persistent alarm activated
+2026-03-25 02:38:49,177 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 02:38:50,211 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:38:55,109 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 02:38:55,109 - INFO - logger - Persistent alarm deactivated
+2026-03-25 02:38:59,572 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:38:59,826 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:38:59,828 - INFO - logger - Persistent alarm activated
+2026-03-25 02:39:01,587 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 02:39:02,644 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:39:04,069 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 02:39:04,069 - INFO - logger - Persistent alarm deactivated
+2026-03-25 02:39:20,965 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:39:21,238 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:39:21,240 - INFO - logger - Persistent alarm activated
+2026-03-25 02:39:24,579 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 02:39:25,606 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:39:27,098 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 02:39:27,098 - INFO - logger - Persistent alarm deactivated
+2026-03-25 02:39:43,523 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:39:43,793 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:39:43,795 - INFO - logger - Persistent alarm activated
+2026-03-25 02:39:45,114 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 02:39:46,120 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:39:47,672 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 02:39:47,673 - INFO - logger - Persistent alarm deactivated
+2026-03-25 02:39:55,090 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:39:55,351 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:39:55,353 - INFO - logger - Persistent alarm activated
+2026-03-25 02:39:56,676 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 02:39:57,688 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:39:59,153 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 02:39:59,154 - INFO - logger - Persistent alarm deactivated
+2026-03-25 02:41:04,242 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:41:04,497 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:41:04,498 - INFO - logger - Persistent alarm activated
+2026-03-25 02:41:07,208 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 02:41:08,273 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:41:09,739 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 02:41:09,739 - INFO - logger - Persistent alarm deactivated
+2026-03-25 02:41:30,259 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:41:30,531 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:41:30,533 - INFO - logger - Persistent alarm activated
+2026-03-25 02:41:32,699 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 02:41:33,765 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:41:35,229 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 02:41:35,230 - INFO - logger - Persistent alarm deactivated
+2026-03-25 02:41:36,416 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:41:36,673 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:41:36,675 - INFO - logger - Persistent alarm activated
+2026-03-25 02:41:37,203 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 02:41:38,175 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:41:39,645 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 02:41:39,646 - INFO - logger - Persistent alarm deactivated
+2026-03-25 02:41:45,357 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:41:46,277 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:42:03,156 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:42:03,403 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:42:03,405 - INFO - logger - Persistent alarm activated
+2026-03-25 02:42:03,928 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 02:42:04,965 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:42:06,183 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:42:06,436 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:42:06,585 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 02:42:06,587 - INFO - logger - Persistent alarm deactivated
+2026-03-25 02:42:07,633 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:42:07,909 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:42:07,910 - INFO - logger - Persistent alarm activated
+2026-03-25 02:42:09,144 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 02:42:10,208 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:42:12,186 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 02:42:12,187 - INFO - logger - Persistent alarm deactivated
+2026-03-25 02:42:25,516 - INFO - logger - Received interrupt signal
+2026-03-25 02:42:25,535 - INFO - logger - Shutting down system...
+2026-03-25 02:42:25,994 - INFO - logger - System shutdown complete
+2026-03-25 02:43:54,805 - INFO - logger - Initializing system components...
+2026-03-25 02:43:54,818 - INFO - logger - FaceDetector initialized successfully
+2026-03-25 02:44:02,094 - INFO - logger - Camera initialized: 640x480
+2026-03-25 02:44:02,095 - INFO - logger - System initialized successfully
+2026-03-25 02:44:02,096 - INFO - logger - Starting main detection loop
+2026-03-25 02:44:02,096 - INFO - logger - Press 'Q' to quit
+2026-03-25 02:44:04,107 - INFO - logger - Mouth calibrated: MAR=0.200
+2026-03-25 02:44:08,220 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:44:08,611 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:44:08,613 - INFO - logger - Persistent alarm activated
+2026-03-25 02:44:10,895 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 02:44:12,335 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:44:12,352 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:44:12,753 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:44:16,881 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 02:44:17,953 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:44:19,424 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 02:44:19,424 - INFO - logger - Persistent alarm deactivated
+2026-03-25 02:44:30,002 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:44:30,253 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:44:30,521 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:44:31,698 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:44:39,999 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:44:41,324 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:44:45,868 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:44:46,695 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:44:51,058 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 02:44:51,328 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 02:44:51,329 - INFO - logger - Persistent alarm activated
+2026-03-25 02:44:55,741 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 02:44:56,812 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 02:44:58,671 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 02:44:58,672 - INFO - logger - Persistent alarm deactivated
+2026-03-25 02:45:04,535 - INFO - logger - Received interrupt signal
+2026-03-25 02:45:04,546 - INFO - logger - Shutting down system...
+2026-03-25 02:45:04,983 - INFO - logger - System shutdown complete
+2026-03-25 14:25:21,724 - INFO - logger - Initializing system components...
+2026-03-25 14:25:21,740 - INFO - logger - FaceDetector initialized successfully
+2026-03-25 14:25:28,703 - INFO - logger - Camera initialized: 640x480
+2026-03-25 14:25:28,704 - INFO - logger - System initialized successfully
+2026-03-25 14:25:28,704 - INFO - logger - Starting main detection loop
+2026-03-25 14:25:28,705 - INFO - logger - Press 'Q' to quit
+2026-03-25 14:25:30,551 - INFO - logger - Mouth calibrated: MAR=0.200
+2026-03-25 14:25:34,874 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 14:25:35,147 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 14:25:35,148 - INFO - logger - Persistent alarm activated
+2026-03-25 14:25:57,970 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 14:25:59,037 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 14:26:00,492 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 14:26:00,492 - INFO - logger - Persistent alarm deactivated
+2026-03-25 14:26:01,564 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 14:26:01,852 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 14:26:01,853 - INFO - logger - Persistent alarm activated
+2026-03-25 14:26:04,478 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 14:26:05,520 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 14:26:06,958 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 14:26:06,959 - INFO - logger - Persistent alarm deactivated
+2026-03-25 14:27:05,559 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 14:27:05,852 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 14:27:05,853 - INFO - logger - Persistent alarm activated
+2026-03-25 14:27:12,494 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 14:27:13,567 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 14:27:13,604 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 14:27:13,869 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 14:27:14,267 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 14:27:15,307 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 14:27:16,782 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 14:27:16,782 - INFO - logger - Persistent alarm deactivated
+2026-03-25 14:27:17,597 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 14:27:17,870 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 14:27:17,873 - INFO - logger - Persistent alarm activated
+2026-03-25 14:27:23,325 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 14:27:24,398 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 14:27:25,871 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 14:27:25,871 - INFO - logger - Persistent alarm deactivated
+2026-03-25 14:27:26,303 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 14:27:26,574 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 14:27:26,575 - INFO - logger - Persistent alarm activated
+2026-03-25 14:27:31,004 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 14:27:31,069 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 14:27:33,313 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 14:27:34,348 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 14:27:35,819 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 14:27:35,820 - INFO - logger - Persistent alarm deactivated
+2026-03-25 14:28:00,266 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 14:28:00,536 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 14:28:00,538 - INFO - logger - Persistent alarm activated
+2026-03-25 14:28:06,234 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 14:28:07,307 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 14:28:08,781 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 14:28:08,782 - INFO - logger - Persistent alarm deactivated
+2026-03-25 14:28:28,221 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 14:28:28,462 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 14:28:28,465 - INFO - logger - Persistent alarm activated
+2026-03-25 14:28:43,859 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 14:28:44,894 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 14:28:46,362 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 14:28:46,363 - INFO - logger - Persistent alarm deactivated
+2026-03-25 14:28:48,204 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 14:28:48,474 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 14:28:48,476 - INFO - logger - Persistent alarm activated
+2026-03-25 14:29:26,366 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 14:29:27,442 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 14:29:27,837 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 14:29:28,366 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 14:29:28,395 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 14:29:28,670 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 14:29:32,203 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 14:29:33,035 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 14:29:51,856 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 14:29:52,893 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 14:29:54,379 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 14:29:54,380 - INFO - logger - Persistent alarm deactivated
+2026-03-25 14:30:29,580 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 14:30:44,689 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 14:30:44,690 - INFO - logger - Persistent alarm activated
+2026-03-25 14:30:45,181 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 14:30:46,396 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 14:30:47,948 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 14:30:47,949 - INFO - logger - Persistent alarm deactivated
+2026-03-25 14:31:22,882 - INFO - logger - Received interrupt signal
+2026-03-25 14:31:22,890 - INFO - logger - Shutting down system...
+2026-03-25 14:31:23,310 - INFO - logger - System shutdown complete
+2026-03-25 15:30:14,468 - INFO - logger - State changed: NORMAL -> ALERT
+2026-03-25 15:30:14,468 - DEBUG - logger - Fatigue: 10% | State: ALERT | Alarm: ACTIVE
+2026-03-25 15:30:14,468 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 15:30:14,469 - DEBUG - logger - Fatigue: 3% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 15:31:06,524 - INFO - logger - State changed: NORMAL -> ALERT
+2026-03-25 15:31:06,524 - DEBUG - logger - Fatigue: 10% | State: ALERT | Alarm: ACTIVE
+2026-03-25 15:31:06,524 - INFO - logger - State changed: ALERT -> NORMAL
+2026-03-25 15:31:06,525 - DEBUG - logger - Fatigue: 3% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 15:31:42,772 - INFO - logger - State changed: NORMAL -> ALERT
+2026-03-25 15:31:42,772 - DEBUG - logger - Fatigue: 10% | State: ALERT | Alarm: ACTIVE
+2026-03-25 15:31:42,772 - INFO - logger - State changed: ALERT -> NORMAL
+2026-03-25 15:31:42,772 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 15:31:42,772 - DEBUG - logger - Fatigue: 3% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 15:38:48,439 - INFO - logger - State changed: NORMAL -> ALERT
+2026-03-25 15:38:48,439 - DEBUG - logger - Fatigue: 10% | State: ALERT | Alarm: ACTIVE
+2026-03-25 15:38:48,439 - INFO - logger - State changed: ALERT -> NORMAL
+2026-03-25 15:38:48,439 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 15:38:48,439 - DEBUG - logger - Fatigue: 3% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 15:49:12,489 - INFO - logger - Initializing system components...
+2026-03-25 15:49:12,546 - INFO - logger - FaceDetector initialized successfully
+2026-03-25 15:49:22,421 - INFO - logger - Camera initialized: 640x480
+2026-03-25 15:49:22,421 - INFO - logger - System initialized successfully
+2026-03-25 15:49:22,423 - INFO - logger - Starting main detection loop
+2026-03-25 15:49:22,423 - INFO - logger - Press 'Q' to quit
+2026-03-25 15:49:22,942 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 15:49:24,409 - INFO - logger - Mouth calibrated: MAR=0.200
+2026-03-25 15:49:27,986 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 15:49:33,003 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 15:49:38,014 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 15:49:43,024 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 15:49:48,060 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 15:49:53,060 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 15:49:56,559 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 15:49:56,624 - DEBUG - logger - Eyes closed confirmed - EAR: 0.151, Frames: 20
+2026-03-25 15:49:56,831 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 15:49:56,833 - INFO - logger - Persistent alarm activated
+2026-03-25 15:49:56,961 - DEBUG - logger - Eyes closed confirmed - EAR: 0.153, Frames: 30
+2026-03-25 15:49:57,296 - DEBUG - logger - Eyes closed confirmed - EAR: 0.169, Frames: 40
+2026-03-25 15:49:58,062 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-03-25 15:50:00,799 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 15:50:01,872 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 15:50:01,903 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 15:50:02,160 - DEBUG - logger - Eyes closed confirmed - EAR: 0.165, Frames: 20
+2026-03-25 15:50:02,160 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 15:50:03,072 - DEBUG - logger - Fatigue: 97% | State: ALERT | Alarm: ACTIVE
+2026-03-25 15:50:03,937 - DEBUG - logger - Eyes closed confirmed - EAR: 0.220, Frames: 20
+2026-03-25 15:50:06,713 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 15:50:07,778 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 15:50:08,093 - DEBUG - logger - Fatigue: 11% | State: NORMAL | Alarm: ACTIVE
+2026-03-25 15:50:09,231 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 15:50:09,508 - INFO - logger - Persistent alarm deactivated
+2026-03-25 15:50:11,744 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 15:50:11,807 - DEBUG - logger - Eyes closed confirmed - EAR: 0.160, Frames: 20
+2026-03-25 15:50:12,015 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 15:50:12,016 - INFO - logger - Persistent alarm activated
+2026-03-25 15:50:12,144 - DEBUG - logger - Eyes closed confirmed - EAR: 0.205, Frames: 30
+2026-03-25 15:50:13,118 - DEBUG - logger - Fatigue: 89% | State: ALERT | Alarm: ACTIVE
+2026-03-25 15:50:14,965 - DEBUG - logger - Eyes closed confirmed - EAR: 0.205, Frames: 20
+2026-03-25 15:50:18,046 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 15:50:18,142 - DEBUG - logger - Fatigue: 42% | State: FATIGUE | Alarm: ACTIVE
+2026-03-25 15:50:19,088 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 15:50:20,559 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 15:50:20,871 - INFO - logger - Persistent alarm deactivated
+2026-03-25 15:50:23,187 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 15:50:23,983 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 15:50:24,050 - DEBUG - logger - Eyes closed confirmed - EAR: 0.163, Frames: 20
+2026-03-25 15:50:24,221 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 15:50:24,223 - INFO - logger - Persistent alarm activated
+2026-03-25 15:50:25,999 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 15:50:26,223 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 15:50:26,463 - DEBUG - logger - Eyes closed confirmed - EAR: 0.154, Frames: 20
+2026-03-25 15:50:26,798 - DEBUG - logger - Eyes closed confirmed - EAR: 0.209, Frames: 30
+2026-03-25 15:50:28,252 - DEBUG - logger - Fatigue: 83% | State: ALERT | Alarm: ACTIVE
+2026-03-25 15:50:29,813 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 15:50:30,905 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 15:50:32,381 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 15:50:32,679 - INFO - logger - Persistent alarm deactivated
+2026-03-25 15:50:33,276 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 15:50:34,816 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 15:50:34,880 - DEBUG - logger - Eyes closed confirmed - EAR: 0.162, Frames: 20
+2026-03-25 15:50:35,056 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 15:50:35,057 - INFO - logger - Persistent alarm activated
+2026-03-25 15:50:35,214 - DEBUG - logger - Eyes closed confirmed - EAR: 0.174, Frames: 30
+2026-03-25 15:50:35,521 - DEBUG - logger - Eyes closed confirmed - EAR: 0.208, Frames: 40
+2026-03-25 15:50:35,858 - DEBUG - logger - Eyes closed confirmed - EAR: 0.195, Frames: 50
+2026-03-25 15:50:36,191 - DEBUG - logger - Eyes closed confirmed - EAR: 0.197, Frames: 60
+2026-03-25 15:50:36,286 - DEBUG - logger - Eyes closed confirmed - EAR: 0.227, Frames: 60
+2026-03-25 15:50:36,462 - DEBUG - logger - Eyes closed confirmed - EAR: 0.256, Frames: 50
+2026-03-25 15:50:36,623 - DEBUG - logger - Eyes closed confirmed - EAR: 0.255, Frames: 40
+2026-03-25 15:50:36,816 - DEBUG - logger - Eyes closed confirmed - EAR: 0.267, Frames: 30
+2026-03-25 15:50:36,960 - DEBUG - logger - Eyes closed confirmed - EAR: 0.357, Frames: 20
+2026-03-25 15:50:38,287 - DEBUG - logger - Fatigue: 86% | State: ALERT | Alarm: ACTIVE
+2026-03-25 15:50:40,002 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 15:50:40,258 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 15:50:40,495 - DEBUG - logger - Eyes closed confirmed - EAR: 0.174, Frames: 20
+2026-03-25 15:50:40,831 - DEBUG - logger - Eyes closed confirmed - EAR: 0.194, Frames: 30
+2026-03-25 15:50:41,186 - DEBUG - logger - Eyes closed confirmed - EAR: 0.191, Frames: 40
+2026-03-25 15:50:41,489 - DEBUG - logger - Eyes closed confirmed - EAR: 0.179, Frames: 50
+2026-03-25 15:50:41,826 - DEBUG - logger - Eyes closed confirmed - EAR: 0.211, Frames: 60
+2026-03-25 15:50:42,158 - DEBUG - logger - Eyes closed confirmed - EAR: 0.219, Frames: 70
+2026-03-25 15:50:42,352 - DEBUG - logger - Eyes closed confirmed - EAR: 0.205, Frames: 70
+2026-03-25 15:50:43,297 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-03-25 15:50:45,762 - DEBUG - logger - Eyes closed confirmed - EAR: 0.210, Frames: 20
+2026-03-25 15:50:45,967 - DEBUG - logger - Eyes closed confirmed - EAR: 0.219, Frames: 20
+2026-03-25 15:50:46,305 - DEBUG - logger - Eyes closed confirmed - EAR: 0.211, Frames: 30
+2026-03-25 15:50:46,638 - DEBUG - logger - Eyes closed confirmed - EAR: 0.197, Frames: 40
+2026-03-25 15:50:47,105 - DEBUG - logger - Eyes closed confirmed - EAR: 0.210, Frames: 30
+2026-03-25 15:50:47,441 - DEBUG - logger - Eyes closed confirmed - EAR: 0.211, Frames: 40
+2026-03-25 15:50:47,871 - DEBUG - logger - Eyes closed confirmed - EAR: 0.216, Frames: 50
+2026-03-25 15:50:48,212 - DEBUG - logger - Eyes closed confirmed - EAR: 0.215, Frames: 60
+2026-03-25 15:50:48,327 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-03-25 15:50:48,583 - DEBUG - logger - Eyes closed confirmed - EAR: 0.229, Frames: 60
+2026-03-25 15:50:48,797 - DEBUG - logger - Eyes closed confirmed - EAR: 0.243, Frames: 50
+2026-03-25 15:50:48,950 - DEBUG - logger - Eyes closed confirmed - EAR: 0.240, Frames: 40
+2026-03-25 15:50:49,092 - DEBUG - logger - Eyes closed confirmed - EAR: 0.244, Frames: 30
+2026-03-25 15:50:49,285 - DEBUG - logger - Eyes closed confirmed - EAR: 0.242, Frames: 20
+2026-03-25 15:50:52,942 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 15:50:53,345 - DEBUG - logger - Fatigue: 35% | State: FATIGUE | Alarm: ACTIVE
+2026-03-25 15:50:54,014 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 15:50:55,454 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 15:50:55,523 - INFO - logger - Persistent alarm deactivated
+2026-03-25 15:50:58,367 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 15:51:01,057 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 15:51:01,121 - DEBUG - logger - Eyes closed confirmed - EAR: 0.162, Frames: 20
+2026-03-25 15:51:01,329 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 15:51:01,331 - INFO - logger - Persistent alarm activated
+2026-03-25 15:51:01,454 - DEBUG - logger - Eyes closed confirmed - EAR: 0.163, Frames: 30
+2026-03-25 15:51:01,791 - DEBUG - logger - Eyes closed confirmed - EAR: 0.161, Frames: 40
+2026-03-25 15:51:02,194 - DEBUG - logger - Eyes closed confirmed - EAR: 0.246, Frames: 40
+2026-03-25 15:51:02,368 - DEBUG - logger - Eyes closed confirmed - EAR: 0.260, Frames: 30
+2026-03-25 15:51:02,528 - DEBUG - logger - Eyes closed confirmed - EAR: 0.280, Frames: 20
+2026-03-25 15:51:03,394 - DEBUG - logger - Fatigue: 91% | State: ALERT | Alarm: ACTIVE
+2026-03-25 15:51:05,343 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 15:51:06,414 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 15:51:07,860 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 15:51:08,230 - INFO - logger - Persistent alarm deactivated
+2026-03-25 15:51:08,399 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 15:51:13,403 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 15:51:18,411 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 15:51:23,421 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 15:51:28,426 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 15:51:29,634 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 15:51:29,698 - DEBUG - logger - Eyes closed confirmed - EAR: 0.188, Frames: 20
+2026-03-25 15:51:29,892 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 15:51:29,894 - INFO - logger - Persistent alarm activated
+2026-03-25 15:51:30,006 - DEBUG - logger - Eyes closed confirmed - EAR: 0.250, Frames: 20
+2026-03-25 15:51:30,690 - DEBUG - logger - Eyes closed confirmed - EAR: 0.189, Frames: 20
+2026-03-25 15:51:31,031 - DEBUG - logger - Eyes closed confirmed - EAR: 0.202, Frames: 30
+2026-03-25 15:51:31,365 - DEBUG - logger - Eyes closed confirmed - EAR: 0.209, Frames: 40
+2026-03-25 15:51:31,556 - DEBUG - logger - Eyes closed confirmed - EAR: 0.224, Frames: 40
+2026-03-25 15:51:31,730 - DEBUG - logger - Eyes closed confirmed - EAR: 0.227, Frames: 30
+2026-03-25 15:51:31,892 - DEBUG - logger - Eyes closed confirmed - EAR: 0.232, Frames: 20
+2026-03-25 15:51:33,456 - DEBUG - logger - Fatigue: 81% | State: ALERT | Alarm: ACTIVE
+2026-03-25 15:51:34,961 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 15:51:36,035 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 15:51:37,502 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 15:51:37,654 - INFO - logger - Persistent alarm deactivated
+2026-03-25 15:51:38,463 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 15:51:43,471 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 15:51:48,493 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 15:51:53,006 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 15:51:53,070 - DEBUG - logger - Eyes closed confirmed - EAR: 0.200, Frames: 20
+2026-03-25 15:51:53,279 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 15:51:53,281 - INFO - logger - Persistent alarm activated
+2026-03-25 15:51:53,408 - DEBUG - logger - Eyes closed confirmed - EAR: 0.211, Frames: 30
+2026-03-25 15:51:53,502 - DEBUG - logger - Fatigue: 66% | State: ALERT | Alarm: ACTIVE
+2026-03-25 15:51:55,070 - DEBUG - logger - Eyes closed confirmed - EAR: 0.210, Frames: 20
+2026-03-25 15:51:55,407 - DEBUG - logger - Eyes closed confirmed - EAR: 0.202, Frames: 30
+2026-03-25 15:51:55,742 - DEBUG - logger - Eyes closed confirmed - EAR: 0.187, Frames: 40
+2026-03-25 15:51:56,080 - DEBUG - logger - Eyes closed confirmed - EAR: 0.161, Frames: 50
+2026-03-25 15:51:56,199 - INFO - logger - Received interrupt signal
+2026-03-25 15:51:56,213 - INFO - logger - Shutting down system...
+2026-03-25 15:51:56,502 - INFO - logger - Persistent alarm deactivated
+2026-03-25 15:51:56,891 - INFO - logger - System shutdown complete
+2026-03-25 16:01:29,468 - INFO - logger - Initializing system components...
+2026-03-25 16:01:29,481 - INFO - logger - FaceDetector initialized successfully
+2026-03-25 16:01:40,074 - INFO - logger - Camera initialized: 640x480
+2026-03-25 16:01:40,074 - INFO - logger - System initialized successfully
+2026-03-25 16:01:40,074 - INFO - logger - Starting main detection loop
+2026-03-25 16:01:40,075 - INFO - logger - Press 'Q' to quit
+2026-03-25 16:01:40,581 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 16:01:42,054 - INFO - logger - Mouth calibrated: MAR=0.200
+2026-03-25 16:01:44,504 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 16:01:44,758 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 16:01:44,759 - INFO - logger - Persistent alarm activated
+2026-03-25 16:01:45,091 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 16:01:45,589 - DEBUG - logger - Fatigue: 33% | State: FATIGUE | Alarm: ACTIVE
+2026-03-25 16:01:45,829 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 16:01:46,358 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 16:01:47,398 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 16:01:48,870 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 16:01:48,993 - INFO - logger - Persistent alarm deactivated
+2026-03-25 16:01:50,598 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 16:01:54,995 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 16:01:55,061 - DEBUG - logger - Eyes closed confirmed - EAR: 0.204, Frames: 20
+2026-03-25 16:01:55,267 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 16:01:55,270 - INFO - logger - Persistent alarm activated
+2026-03-25 16:01:55,398 - DEBUG - logger - Eyes closed confirmed - EAR: 0.202, Frames: 30
+2026-03-25 16:01:55,474 - DEBUG - logger - Eyes closed confirmed - EAR: 0.221, Frames: 30
+2026-03-25 16:01:55,639 - DEBUG - logger - Fatigue: 78% | State: ALERT | Alarm: ACTIVE
+2026-03-25 16:01:55,669 - DEBUG - logger - Eyes closed confirmed - EAR: 0.246, Frames: 20
+2026-03-25 16:01:58,245 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 16:01:59,317 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 16:02:00,661 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: ACTIVE
+2026-03-25 16:02:00,773 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 16:02:00,906 - INFO - logger - Persistent alarm deactivated
+2026-03-25 16:02:04,487 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 16:02:04,552 - DEBUG - logger - Eyes closed confirmed - EAR: 0.150, Frames: 20
+2026-03-25 16:02:04,757 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 16:02:04,759 - INFO - logger - Persistent alarm activated
+2026-03-25 16:02:04,884 - DEBUG - logger - Eyes closed confirmed - EAR: 0.150, Frames: 30
+2026-03-25 16:02:05,219 - DEBUG - logger - Eyes closed confirmed - EAR: 0.167, Frames: 40
+2026-03-25 16:02:05,316 - DEBUG - logger - Eyes closed confirmed - EAR: 0.222, Frames: 40
+2026-03-25 16:02:05,493 - DEBUG - logger - Eyes closed confirmed - EAR: 0.259, Frames: 30
+2026-03-25 16:02:05,651 - DEBUG - logger - Eyes closed confirmed - EAR: 0.276, Frames: 20
+2026-03-25 16:02:05,701 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-03-25 16:02:08,340 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 16:02:09,412 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 16:02:10,724 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: ACTIVE
+2026-03-25 16:02:10,883 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 16:02:11,101 - INFO - logger - Persistent alarm deactivated
+2026-03-25 16:02:12,932 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 16:02:13,107 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 16:02:15,752 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 16:02:17,858 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 16:02:17,923 - DEBUG - logger - Eyes closed confirmed - EAR: 0.208, Frames: 20
+2026-03-25 16:02:18,036 - DEBUG - logger - Eyes closed confirmed - EAR: 0.225, Frames: 20
+2026-03-25 16:02:18,133 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 16:02:18,135 - INFO - logger - Persistent alarm activated
+2026-03-25 16:02:18,322 - DEBUG - logger - Eyes closed confirmed - EAR: 0.192, Frames: 20
+2026-03-25 16:02:18,657 - DEBUG - logger - Eyes closed confirmed - EAR: 0.202, Frames: 30
+2026-03-25 16:02:18,741 - DEBUG - logger - Eyes closed confirmed - EAR: 0.224, Frames: 30
+2026-03-25 16:02:18,930 - DEBUG - logger - Eyes closed confirmed - EAR: 0.245, Frames: 20
+2026-03-25 16:02:20,771 - DEBUG - logger - Fatigue: 64% | State: ALERT | Alarm: ACTIVE
+2026-03-25 16:02:21,587 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 16:02:22,659 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 16:02:24,133 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 16:02:24,473 - INFO - logger - Persistent alarm deactivated
+2026-03-25 16:02:25,779 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 16:02:30,837 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 16:02:33,320 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 16:02:34,183 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 16:02:35,858 - DEBUG - logger - Fatigue: 12% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 16:02:35,937 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 16:02:36,035 - DEBUG - logger - Eyes closed confirmed - EAR: 0.186, Frames: 20
+2026-03-25 16:02:36,228 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 16:02:36,230 - INFO - logger - Persistent alarm activated
+2026-03-25 16:02:38,453 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 16:02:39,495 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 16:02:40,899 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: ACTIVE
+2026-03-25 16:02:40,962 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 16:02:41,163 - INFO - logger - Persistent alarm deactivated
+2026-03-25 16:02:43,013 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 16:02:43,299 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 16:02:43,301 - INFO - logger - Persistent alarm activated
+2026-03-25 16:02:43,332 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 16:02:44,450 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 16:02:45,924 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 16:02:45,924 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 16:02:46,117 - INFO - logger - Persistent alarm deactivated
+2026-03-25 16:02:48,242 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 16:02:48,613 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 16:02:49,972 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 16:02:50,053 - DEBUG - logger - Eyes closed confirmed - EAR: 0.207, Frames: 20
+2026-03-25 16:02:50,243 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 16:02:50,246 - INFO - logger - Persistent alarm activated
+2026-03-25 16:02:50,394 - DEBUG - logger - Eyes closed confirmed - EAR: 0.212, Frames: 30
+2026-03-25 16:02:50,679 - DEBUG - logger - Eyes closed confirmed - EAR: 0.224, Frames: 30
+2026-03-25 16:02:50,852 - DEBUG - logger - Eyes closed confirmed - EAR: 0.221, Frames: 20
+2026-03-25 16:02:50,948 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-03-25 16:02:51,253 - DEBUG - logger - Eyes closed confirmed - EAR: 0.191, Frames: 20
+2026-03-25 16:02:51,461 - DEBUG - logger - Eyes closed confirmed - EAR: 0.235, Frames: 20
+2026-03-25 16:02:51,556 - DEBUG - logger - Eyes closed confirmed - EAR: 0.202, Frames: 20
+2026-03-25 16:02:54,742 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 16:02:55,811 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 16:02:55,971 - DEBUG - logger - Fatigue: 15% | State: NORMAL | Alarm: ACTIVE
+2026-03-25 16:02:57,289 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 16:02:57,692 - INFO - logger - Persistent alarm deactivated
+2026-03-25 16:02:59,157 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 16:02:59,237 - DEBUG - logger - Eyes closed confirmed - EAR: 0.220, Frames: 20
+2026-03-25 16:02:59,429 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 16:02:59,430 - INFO - logger - Persistent alarm activated
+2026-03-25 16:03:00,739 - DEBUG - logger - Eyes closed confirmed - EAR: 0.199, Frames: 20
+2026-03-25 16:03:00,980 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-03-25 16:03:01,077 - DEBUG - logger - Eyes closed confirmed - EAR: 0.158, Frames: 30
+2026-03-25 16:03:01,414 - DEBUG - logger - Eyes closed confirmed - EAR: 0.165, Frames: 40
+2026-03-25 16:03:01,748 - DEBUG - logger - Eyes closed confirmed - EAR: 0.162, Frames: 50
+2026-03-25 16:03:02,088 - DEBUG - logger - Eyes closed confirmed - EAR: 0.151, Frames: 60
+2026-03-25 16:03:02,421 - DEBUG - logger - Eyes closed confirmed - EAR: 0.167, Frames: 70
+2026-03-25 16:03:02,759 - DEBUG - logger - Eyes closed confirmed - EAR: 0.191, Frames: 80
+2026-03-25 16:03:03,092 - DEBUG - logger - Eyes closed confirmed - EAR: 0.214, Frames: 90
+2026-03-25 16:03:03,427 - DEBUG - logger - Eyes closed confirmed - EAR: 0.191, Frames: 100
+2026-03-25 16:03:03,548 - INFO - logger - Received interrupt signal
+2026-03-25 16:03:03,565 - INFO - logger - Shutting down system...
+2026-03-25 16:03:03,654 - INFO - logger - Persistent alarm deactivated
+2026-03-25 16:03:04,042 - INFO - logger - System shutdown complete
+2026-03-25 16:15:15,847 - INFO - logger - State changed: NORMAL -> ALERT
+2026-03-25 16:15:15,847 - DEBUG - logger - Fatigue: 10% | State: ALERT | Alarm: ACTIVE
+2026-03-25 16:15:15,848 - INFO - logger - State changed: ALERT -> NORMAL
+2026-03-25 16:15:15,848 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 16:15:15,848 - DEBUG - logger - Fatigue: 3% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 16:17:37,571 - INFO - logger - Mouth calibrated: MAR=0.200
+2026-03-25 16:18:00,748 - INFO - logger - Mouth calibrated: MAR=0.200
+2026-03-25 16:18:00,750 - INFO - logger - State changed: NORMAL -> ALERT
+2026-03-25 16:18:00,750 - DEBUG - logger - Fatigue: 10% | State: ALERT | Alarm: ACTIVE
+2026-03-25 16:18:00,750 - INFO - logger - State changed: ALERT -> NORMAL
+2026-03-25 16:18:00,750 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 16:18:00,750 - DEBUG - logger - Fatigue: 3% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 16:24:04,263 - INFO - logger - Initializing system components...
+2026-03-25 16:24:04,276 - INFO - logger - FaceDetector initialized successfully
+2026-03-25 16:24:12,698 - INFO - logger - Camera initialized: 640x480
+2026-03-25 16:24:12,698 - INFO - logger - System initialized successfully
+2026-03-25 16:24:12,699 - INFO - logger - Starting main detection loop
+2026-03-25 16:24:12,699 - INFO - logger - Press 'Q' to quit
+2026-03-25 16:24:13,158 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 16:24:17,264 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 16:24:17,537 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 16:24:17,539 - INFO - logger - Persistent alarm activated
+2026-03-25 16:24:18,179 - DEBUG - logger - Fatigue: 49% | State: ALERT | Alarm: ACTIVE
+2026-03-25 16:24:18,337 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 16:24:19,185 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 16:24:20,257 - DEBUG - logger - Eyes closed confirmed - EAR: 0.157, Frames: 20
+2026-03-25 16:24:23,204 - DEBUG - logger - Fatigue: 66% | State: ALERT | Alarm: ACTIVE
+2026-03-25 16:24:24,114 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 16:24:25,187 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 16:24:26,660 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 16:24:26,705 - INFO - logger - Persistent alarm deactivated
+2026-03-25 16:24:28,260 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 16:24:33,266 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 16:24:38,287 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 16:24:43,319 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 16:24:45,490 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 16:24:45,538 - DEBUG - logger - Eyes closed confirmed - EAR: 0.151, Frames: 20
+2026-03-25 16:24:45,730 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 16:24:45,732 - INFO - logger - Persistent alarm activated
+2026-03-25 16:24:45,936 - DEBUG - logger - Eyes closed confirmed - EAR: 0.245, Frames: 20
+2026-03-25 16:24:48,147 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 16:24:48,351 - DEBUG - logger - Fatigue: 40% | State: FATIGUE | Alarm: ACTIVE
+2026-03-25 16:24:49,185 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 16:24:50,654 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 16:24:50,667 - INFO - logger - Persistent alarm deactivated
+2026-03-25 16:24:51,201 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 16:24:51,265 - DEBUG - logger - Eyes closed confirmed - EAR: 0.150, Frames: 20
+2026-03-25 16:24:51,490 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 16:24:51,493 - INFO - logger - Persistent alarm activated
+2026-03-25 16:24:51,603 - DEBUG - logger - Eyes closed confirmed - EAR: 0.151, Frames: 30
+2026-03-25 16:24:53,381 - DEBUG - logger - Fatigue: 70% | State: ALERT | Alarm: ACTIVE
+2026-03-25 16:24:54,451 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 16:24:55,520 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 16:24:56,960 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 16:24:57,127 - INFO - logger - Persistent alarm deactivated
+2026-03-25 16:24:58,402 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 16:25:03,457 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 16:25:05,075 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 16:25:05,138 - DEBUG - logger - Eyes closed confirmed - EAR: 0.150, Frames: 20
+2026-03-25 16:25:05,345 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 16:25:05,347 - INFO - logger - Persistent alarm activated
+2026-03-25 16:25:05,443 - DEBUG - logger - Eyes closed confirmed - EAR: 0.223, Frames: 20
+2026-03-25 16:25:07,281 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 16:25:08,321 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 16:25:08,465 - DEBUG - logger - Fatigue: 15% | State: NORMAL | Alarm: ACTIVE
+2026-03-25 16:25:09,761 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 16:25:10,128 - INFO - logger - Persistent alarm deactivated
+2026-03-25 16:25:13,488 - DEBUG - logger - Fatigue: 10% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 16:25:18,489 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 16:25:23,504 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 16:25:24,579 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 16:25:24,688 - DEBUG - logger - Eyes closed confirmed - EAR: 0.150, Frames: 20
+2026-03-25 16:25:24,880 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 16:25:24,881 - INFO - logger - Persistent alarm activated
+2026-03-25 16:25:27,105 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 16:25:28,431 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 16:25:28,511 - DEBUG - logger - Fatigue: 18% | State: NORMAL | Alarm: ACTIVE
+2026-03-25 16:25:29,920 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 16:25:30,237 - INFO - logger - Persistent alarm deactivated
+2026-03-25 16:25:33,542 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 16:25:38,561 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 16:25:43,567 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 16:25:48,624 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 16:25:49,204 - INFO - logger - Received interrupt signal
+2026-03-25 16:25:49,209 - INFO - logger - Shutting down system...
+2026-03-25 16:25:49,580 - INFO - logger - System shutdown complete
+2026-03-25 17:29:34,455 - INFO - logger - Initializing system components...
+2026-03-25 17:29:34,487 - INFO - logger - FaceDetector initialized successfully
+2026-03-25 17:29:51,881 - INFO - logger - Camera initialized: 640x480
+2026-03-25 17:29:51,882 - INFO - logger - System initialized successfully
+2026-03-25 17:29:51,884 - INFO - logger - Starting main detection loop
+2026-03-25 17:29:51,884 - INFO - logger - Press 'Q' to quit
+2026-03-25 17:29:52,622 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 17:29:57,648 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 17:30:02,657 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 17:30:07,667 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 17:30:09,074 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 17:30:09,230 - DEBUG - logger - Eyes closed confirmed - EAR: 0.154, Frames: 20
+2026-03-25 17:30:09,380 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 17:30:09,384 - INFO - logger - Persistent alarm activated
+2026-03-25 17:30:09,625 - DEBUG - logger - Eyes closed confirmed - EAR: 0.187, Frames: 20
+2026-03-25 17:30:12,528 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 17:30:12,692 - DEBUG - logger - Fatigue: 41% | State: FATIGUE | Alarm: ACTIVE
+2026-03-25 17:30:13,623 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 17:30:15,076 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 17:30:15,429 - INFO - logger - Persistent alarm deactivated
+2026-03-25 17:30:15,735 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 17:30:16,262 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 17:30:16,267 - INFO - logger - Persistent alarm activated
+2026-03-25 17:30:17,711 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-03-25 17:30:21,291 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 17:30:22,354 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 17:30:22,720 - DEBUG - logger - Fatigue: 10% | State: NORMAL | Alarm: ACTIVE
+2026-03-25 17:30:23,839 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 17:30:24,034 - INFO - logger - Persistent alarm deactivated
+2026-03-25 17:30:27,748 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 17:30:32,799 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 17:30:32,903 - INFO - logger - Received interrupt signal
+2026-03-25 17:30:32,914 - INFO - logger - Shutting down system...
+2026-03-25 17:30:33,328 - INFO - logger - System shutdown complete
+2026-03-25 17:32:51,594 - INFO - logger - Initializing system components...
+2026-03-25 17:32:51,628 - INFO - logger - FaceDetector initialized successfully
+2026-03-25 17:33:07,862 - INFO - logger - Camera initialized: 640x480
+2026-03-25 17:33:07,864 - INFO - logger - System initialized successfully
+2026-03-25 17:33:07,865 - INFO - logger - Starting main detection loop
+2026-03-25 17:33:07,866 - INFO - logger - Press 'Q' to quit
+2026-03-25 17:33:08,535 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 17:33:13,001 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 17:33:13,082 - DEBUG - logger - Eyes closed confirmed - EAR: 0.185, Frames: 20
+2026-03-25 17:33:13,293 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 17:33:13,298 - INFO - logger - Persistent alarm activated
+2026-03-25 17:33:13,455 - DEBUG - logger - Eyes closed confirmed - EAR: 0.180, Frames: 30
+2026-03-25 17:33:13,538 - DEBUG - logger - Fatigue: 63% | State: ALERT | Alarm: ACTIVE
+2026-03-25 17:33:13,916 - DEBUG - logger - Eyes closed confirmed - EAR: 0.202, Frames: 30
+2026-03-25 17:33:14,124 - DEBUG - logger - Eyes closed confirmed - EAR: 0.211, Frames: 20
+2026-03-25 17:33:16,633 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 17:33:17,727 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 17:33:18,539 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: ACTIVE
+2026-03-25 17:33:19,181 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 17:33:19,646 - INFO - logger - Persistent alarm deactivated
+2026-03-25 17:33:19,798 - INFO - logger - Received interrupt signal
+2026-03-25 17:33:19,813 - INFO - logger - Received interrupt signal
+2026-03-25 17:33:19,814 - INFO - logger - Shutting down system...
+2026-03-25 17:33:20,234 - INFO - logger - Received interrupt signal
+2026-03-25 17:33:20,248 - INFO - logger - Received interrupt signal
+2026-03-25 17:33:20,274 - INFO - logger - System shutdown complete
+2026-03-25 17:33:20,280 - INFO - logger - Received interrupt signal
+2026-03-25 17:33:20,370 - INFO - logger - Received interrupt signal
+2026-03-25 17:33:43,803 - INFO - logger - Initializing system components...
+2026-03-25 17:33:43,832 - INFO - logger - FaceDetector initialized successfully
+2026-03-25 17:34:00,965 - INFO - logger - Camera initialized: 640x480
+2026-03-25 17:34:00,965 - INFO - logger - System initialized successfully
+2026-03-25 17:34:00,967 - INFO - logger - Starting main detection loop
+2026-03-25 17:34:00,968 - INFO - logger - Press 'Q' to quit
+2026-03-25 17:34:01,625 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 17:34:06,652 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 17:34:11,662 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 17:34:16,688 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-03-25 17:34:17,786 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 17:34:18,317 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 17:34:18,320 - INFO - logger - Persistent alarm activated
+2026-03-25 17:34:21,703 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-03-25 17:34:26,542 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-03-25 17:34:26,731 - DEBUG - logger - Fatigue: 41% | State: FATIGUE | Alarm: ACTIVE
+2026-03-25 17:34:27,660 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-03-25 17:34:29,083 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-03-25 17:34:29,458 - INFO - logger - Persistent alarm deactivated
+2026-03-25 17:34:30,799 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-03-25 17:34:31,320 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-03-25 17:34:31,325 - INFO - logger - Persistent alarm activated
+2026-03-25 17:34:31,744 - DEBUG - logger - Fatigue: 63% | State: ALERT | Alarm: ACTIVE
+2026-03-25 17:34:36,763 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-03-25 17:34:41,788 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-03-25 17:34:46,814 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-03-25 17:34:51,842 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-03-25 17:34:53,149 - INFO - logger - Received interrupt signal
+2026-03-25 17:34:53,154 - INFO - logger - Shutting down system...
+2026-03-25 17:34:53,194 - INFO - logger - Persistent alarm deactivated
+2026-03-25 17:34:53,599 - INFO - logger - System shutdown complete

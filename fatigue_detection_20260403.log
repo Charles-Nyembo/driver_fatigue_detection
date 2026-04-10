@@ -1,0 +1,1372 @@
+2026-04-03 10:06:54,939 - INFO - logger - Mouth calibrated: MAR=0.200
+2026-04-03 10:06:54,943 - INFO - logger - State changed: NORMAL -> ALERT
+2026-04-03 10:06:54,944 - DEBUG - logger - Fatigue: 10% | State: ALERT | Alarm: ACTIVE
+2026-04-03 10:06:54,944 - INFO - logger - State changed: ALERT -> NORMAL
+2026-04-03 10:06:54,944 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-03 10:06:54,945 - DEBUG - logger - Fatigue: 3% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 10:08:30,766 - INFO - logger - Initializing system components...
+2026-04-03 10:08:30,928 - INFO - logger - FaceDetector initialized successfully
+2026-04-03 10:08:31,665 - INFO - logger - System initialized successfully
+2026-04-03 10:08:31,676 - INFO - logger - Starting main detection loop
+2026-04-03 10:08:31,680 - INFO - logger - Click step 1 to launch simulation, step 2 to start driving, step 5 to stop, Q to quit
+2026-04-03 10:09:33,934 - INFO - logger - Shutting down system...
+2026-04-03 10:09:33,993 - INFO - logger - System shutdown complete
+2026-04-03 10:10:46,349 - INFO - logger - Initializing system components...
+2026-04-03 10:10:46,399 - INFO - logger - FaceDetector initialized successfully
+2026-04-03 10:10:46,928 - INFO - logger - System initialized successfully
+2026-04-03 10:10:46,929 - INFO - logger - Starting main detection loop
+2026-04-03 10:10:46,929 - INFO - logger - Click step 1 to launch simulation, step 2 to start driving, step 5 to stop, Q to quit
+2026-04-03 10:11:22,126 - INFO - logger - Shutting down system...
+2026-04-03 10:11:22,184 - INFO - logger - System shutdown complete
+2026-04-03 10:13:52,167 - INFO - logger - Mouth calibrated: MAR=0.200
+2026-04-03 10:13:52,170 - INFO - logger - State changed: NORMAL -> ALERT
+2026-04-03 10:13:52,170 - DEBUG - logger - Fatigue: 10% | State: ALERT | Alarm: ACTIVE
+2026-04-03 10:13:52,171 - INFO - logger - State changed: ALERT -> NORMAL
+2026-04-03 10:13:52,171 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-03 10:13:52,171 - DEBUG - logger - Fatigue: 3% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 10:18:50,059 - INFO - logger - Initializing system components...
+2026-04-03 10:18:50,141 - INFO - logger - FaceDetector initialized successfully
+2026-04-03 10:18:50,669 - INFO - logger - System initialized successfully
+2026-04-03 10:18:50,671 - INFO - logger - Starting main detection loop
+2026-04-03 10:18:50,672 - INFO - logger - Click step 1 to launch simulation, step 2 to start driving, step 5 to stop, Q to quit
+2026-04-03 10:19:01,578 - INFO - logger - Simulation launched - waiting for vehicle start
+2026-04-03 10:19:20,215 - INFO - logger - Camera initialized: 640x480
+2026-04-03 10:19:20,216 - INFO - logger - Driving mode started - face analysis enabled
+2026-04-03 10:19:21,007 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 10:19:26,040 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 10:19:31,043 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 10:19:36,059 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 10:19:41,091 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 10:19:46,097 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 10:19:51,195 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 10:19:56,249 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 10:20:01,266 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 10:20:06,343 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 10:20:11,401 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 10:20:16,428 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 10:20:23,307 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 10:20:28,365 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 10:20:33,431 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 10:20:38,434 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 10:20:43,483 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 10:20:48,519 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 10:20:53,563 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 10:20:57,250 - INFO - logger - Persistent alarm activated
+2026-04-03 10:20:58,895 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 10:20:59,210 - INFO - logger - Persistent alarm deactivated
+2026-04-03 10:21:03,450 - INFO - logger - Persistent alarm activated
+2026-04-03 10:21:04,964 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 10:21:05,261 - INFO - logger - Persistent alarm deactivated
+2026-04-03 10:21:08,654 - INFO - logger - Shutting down system...
+2026-04-03 10:21:09,077 - INFO - logger - System shutdown complete
+2026-04-03 10:31:02,383 - INFO - logger - Initializing system components...
+2026-04-03 10:31:02,418 - INFO - logger - FaceDetector initialized successfully
+2026-04-03 10:31:02,806 - INFO - logger - System initialized successfully
+2026-04-03 10:31:02,807 - INFO - logger - Starting main detection loop
+2026-04-03 10:31:02,807 - INFO - logger - Click step 1 to launch simulation, step 2 to start driving, step 5 to stop, Q to quit
+2026-04-03 10:32:01,617 - INFO - logger - Shutting down system...
+2026-04-03 10:32:01,671 - INFO - logger - System shutdown complete
+2026-04-03 11:41:26,159 - INFO - logger - Initializing system components...
+2026-04-03 11:41:26,201 - INFO - logger - FaceDetector initialized successfully
+2026-04-03 11:41:26,639 - INFO - logger - System initialized successfully
+2026-04-03 11:41:26,640 - INFO - logger - Starting main detection loop
+2026-04-03 11:41:26,640 - INFO - logger - Click step 1 to launch simulation, step 2 to start driving, step 5 to stop, Q to quit
+2026-04-03 11:42:24,125 - INFO - logger - Simulation launched - waiting for vehicle start
+2026-04-03 11:42:32,809 - INFO - logger - Camera initialized: 640x480
+2026-04-03 11:42:32,809 - INFO - logger - Driving mode started - face analysis enabled
+2026-04-03 11:42:33,320 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:42:38,357 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:42:43,392 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:42:48,409 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:42:53,422 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:42:58,460 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:43:03,500 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:43:08,525 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:43:13,568 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:43:16,904 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A DROITE
+2026-04-03 11:43:17,708 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-03 11:43:18,138 - WARNING - logger - Dangerous posture detected: TETE TROP BAISSEE
+2026-04-03 11:43:18,491 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A DROITE
+2026-04-03 11:43:18,578 - DEBUG - logger - Fatigue: 40% | State: FATIGUE | Alarm: INACTIVE
+2026-04-03 11:43:18,818 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-03 11:43:18,819 - INFO - logger - Persistent alarm activated
+2026-04-03 11:43:23,595 - DEBUG - logger - Fatigue: 98% | State: ALERT | Alarm: ACTIVE
+2026-04-03 11:43:26,447 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-03 11:43:27,899 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-03 11:43:28,616 - DEBUG - logger - Fatigue: 6% | State: NORMAL | Alarm: ACTIVE
+2026-04-03 11:43:29,864 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-03 11:43:30,088 - INFO - logger - Persistent alarm deactivated
+2026-04-03 11:43:33,636 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:43:33,939 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A DROITE
+2026-04-03 11:43:34,352 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-03 11:43:34,918 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-03 11:43:34,920 - INFO - logger - Persistent alarm activated
+2026-04-03 11:43:38,843 - INFO - logger - Persistent alarm deactivated
+2026-04-03 11:43:39,822 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 11:43:39,825 - INFO - logger - Persistent alarm activated
+2026-04-03 11:43:40,017 - WARNING - logger - Dangerous posture detected: VISAGE TOURNE A GAUCHE
+2026-04-03 11:43:40,094 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A DROITE
+2026-04-03 11:43:40,184 - WARNING - logger - Dangerous posture detected: VISAGE TOURNE A GAUCHE
+2026-04-03 11:43:40,271 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A DROITE
+2026-04-03 11:43:42,165 - WARNING - logger - Dangerous posture detected: TETE TROP BAISSEE
+2026-04-03 11:43:44,885 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 11:43:49,896 - DEBUG - logger - Fatigue: 74% | State: ALERT | Alarm: ACTIVE
+2026-04-03 11:43:52,782 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-03 11:43:54,395 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-03 11:43:54,938 - DEBUG - logger - Fatigue: 10% | State: NORMAL | Alarm: ACTIVE
+2026-04-03 11:43:56,488 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-03 11:43:56,734 - INFO - logger - Persistent alarm deactivated
+2026-04-03 11:43:59,758 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-03 11:43:59,953 - DEBUG - logger - Fatigue: 27% | State: FATIGUE | Alarm: INACTIVE
+2026-04-03 11:44:00,534 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-03 11:44:00,534 - INFO - logger - Persistent alarm activated
+2026-04-03 11:44:04,964 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 11:44:10,048 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 11:44:14,617 - INFO - logger - Persistent alarm deactivated
+2026-04-03 11:44:14,721 - INFO - logger - Shutting down system...
+2026-04-03 11:44:15,144 - INFO - logger - System shutdown complete
+2026-04-03 11:45:10,911 - INFO - logger - Initializing system components...
+2026-04-03 11:45:10,961 - INFO - logger - FaceDetector initialized successfully
+2026-04-03 11:45:11,468 - INFO - logger - System initialized successfully
+2026-04-03 11:45:11,470 - INFO - logger - Starting main detection loop
+2026-04-03 11:45:11,471 - INFO - logger - Click step 1 to launch simulation, step 2 to start driving, step 5 to stop, Q to quit
+2026-04-03 11:45:13,684 - INFO - logger - Shutting down system...
+2026-04-03 11:45:13,735 - INFO - logger - System shutdown complete
+2026-04-03 11:48:23,936 - INFO - logger - Initializing system components...
+2026-04-03 11:48:23,954 - INFO - logger - FaceDetector initialized successfully
+2026-04-03 11:48:24,334 - INFO - logger - System initialized successfully
+2026-04-03 11:48:24,335 - INFO - logger - Starting main detection loop
+2026-04-03 11:48:24,335 - INFO - logger - Click step 1 to launch simulation, step 2 to start driving, step 5 to stop, Q to quit
+2026-04-03 11:48:28,333 - INFO - logger - Simulation launched - waiting for vehicle start
+2026-04-03 11:48:36,664 - INFO - logger - Camera initialized: 640x480
+2026-04-03 11:48:36,664 - INFO - logger - Driving mode started - face analysis enabled
+2026-04-03 11:48:37,104 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:48:42,138 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:48:47,155 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:48:52,156 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:48:57,187 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:49:02,188 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:49:07,190 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:49:12,161 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-03 11:49:12,260 - DEBUG - logger - Fatigue: 22% | State: FATIGUE | Alarm: INACTIVE
+2026-04-03 11:49:13,345 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-03 11:49:13,346 - INFO - logger - Persistent alarm activated
+2026-04-03 11:49:17,291 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 11:49:22,508 - INFO - logger - Persistent alarm deactivated
+2026-04-03 11:49:22,657 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-03 11:49:22,657 - DEBUG - logger - Fatigue: 45% | State: FATIGUE | Alarm: ACTIVE
+2026-04-03 11:49:22,658 - INFO - logger - Persistent alarm activated
+2026-04-03 11:49:24,199 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-03 11:49:25,480 - INFO - logger - Persistent alarm deactivated
+2026-04-03 11:49:25,615 - INFO - logger - Persistent alarm activated
+2026-04-03 11:49:26,386 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-03 11:49:26,721 - INFO - logger - Persistent alarm deactivated
+2026-04-03 11:49:27,659 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:49:32,692 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:49:37,693 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:49:42,702 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:49:47,703 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:50:08,316 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:50:13,706 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:50:18,753 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:50:20,043 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A DROITE
+2026-04-03 11:50:20,718 - WARNING - logger - Dangerous posture detected: VISAGE TOURNE A GAUCHE
+2026-04-03 11:50:20,719 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-03 11:50:20,813 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A DROITE
+2026-04-03 11:50:21,415 - WARNING - logger - Dangerous posture detected: VISAGE TOURNE A GAUCHE
+2026-04-03 11:50:21,491 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A DROITE
+2026-04-03 11:50:21,621 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-03 11:50:21,623 - INFO - logger - Persistent alarm activated
+2026-04-03 11:50:23,795 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 11:50:24,357 - WARNING - logger - Dangerous posture detected: VISAGE TOURNE A GAUCHE
+2026-04-03 11:50:28,822 - DEBUG - logger - Fatigue: 58% | State: ALERT | Alarm: ACTIVE
+2026-04-03 11:50:29,454 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-03 11:50:30,788 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-03 11:50:32,640 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-03 11:50:32,895 - INFO - logger - Persistent alarm deactivated
+2026-04-03 11:50:33,827 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:50:36,587 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-03 11:50:36,681 - DEBUG - logger - Eyes closed confirmed - EAR: 0.188, Frames: 20
+2026-04-03 11:50:36,925 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-03 11:50:36,926 - INFO - logger - Persistent alarm activated
+2026-04-03 11:50:37,099 - DEBUG - logger - Eyes closed confirmed - EAR: 0.180, Frames: 30
+2026-04-03 11:50:37,503 - DEBUG - logger - Eyes closed confirmed - EAR: 0.191, Frames: 40
+2026-04-03 11:50:37,965 - DEBUG - logger - Eyes closed confirmed - EAR: 0.188, Frames: 50
+2026-04-03 11:50:38,854 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 11:50:39,237 - DEBUG - logger - Eyes closed confirmed - EAR: 0.201, Frames: 20
+2026-04-03 11:50:39,387 - DEBUG - logger - Eyes closed confirmed - EAR: 0.226, Frames: 20
+2026-04-03 11:50:41,156 - INFO - logger - Persistent alarm deactivated
+2026-04-03 11:50:54,349 - DEBUG - logger - Fatigue: 92% | State: ALERT | Alarm: ACTIVE
+2026-04-03 11:50:54,350 - INFO - logger - Persistent alarm activated
+2026-04-03 11:50:55,056 - INFO - logger - Persistent alarm deactivated
+2026-04-03 11:51:05,167 - DEBUG - logger - Fatigue: 79% | State: ALERT | Alarm: ACTIVE
+2026-04-03 11:51:05,168 - INFO - logger - Persistent alarm activated
+2026-04-03 11:51:06,811 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-03 11:51:08,244 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-03 11:51:10,064 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-03 11:51:10,098 - INFO - logger - Persistent alarm deactivated
+2026-04-03 11:51:10,199 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:51:16,205 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:51:21,260 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:51:26,296 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:51:27,551 - WARNING - logger - Dangerous posture detected: TETE TROP BAISSEE
+2026-04-03 11:51:27,922 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-03 11:51:28,442 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-03 11:51:28,445 - INFO - logger - Persistent alarm activated
+2026-04-03 11:51:29,148 - INFO - logger - Persistent alarm deactivated
+2026-04-03 11:51:29,520 - INFO - logger - Driving mode stopped - face analysis disabled
+2026-04-03 11:52:22,692 - INFO - logger - Camera initialized: 640x480
+2026-04-03 11:52:22,692 - INFO - logger - Driving mode started - face analysis enabled
+2026-04-03 11:52:33,733 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:52:38,769 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:52:43,805 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:52:48,878 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:52:53,910 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:52:58,913 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:53:03,952 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:53:08,978 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:53:13,980 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:53:19,934 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:53:21,399 - INFO - logger - Shutting down system...
+2026-04-03 11:53:21,815 - INFO - logger - System shutdown complete
+2026-04-03 11:57:30,002 - INFO - logger - Initializing system components...
+2026-04-03 11:57:30,031 - INFO - logger - FaceDetector initialized successfully
+2026-04-03 11:57:30,445 - INFO - logger - System initialized successfully
+2026-04-03 11:57:30,445 - INFO - logger - Starting main detection loop
+2026-04-03 11:57:30,445 - INFO - logger - Click step 1 to launch simulation, step 2 to start driving, step 5 to stop, Q to quit
+2026-04-03 11:58:04,080 - INFO - logger - Simulation launched - waiting for vehicle start
+2026-04-03 11:58:12,108 - INFO - logger - Camera initialized: 640x480
+2026-04-03 11:58:12,109 - INFO - logger - Driving mode started - face analysis enabled
+2026-04-03 11:58:12,567 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:58:17,629 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:58:22,687 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:58:27,716 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:58:32,731 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 11:58:35,623 - INFO - logger - Shutting down system...
+2026-04-03 11:58:36,033 - INFO - logger - System shutdown complete
+2026-04-03 12:15:20,724 - INFO - logger - Initializing system components...
+2026-04-03 12:15:20,761 - INFO - logger - FaceDetector initialized successfully
+2026-04-03 12:15:21,186 - INFO - logger - System initialized successfully
+2026-04-03 12:15:21,187 - INFO - logger - Starting main detection loop
+2026-04-03 12:15:21,187 - INFO - logger - Click step 1 to launch simulation, step 2 to start driving, step 5 to stop, Q to quit
+2026-04-03 12:15:42,049 - INFO - logger - Simulation launched - waiting for vehicle start
+2026-04-03 12:16:28,297 - INFO - logger - Camera initialized: 640x480
+2026-04-03 12:16:28,297 - INFO - logger - Driving mode started - face analysis enabled
+2026-04-03 12:16:29,143 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:16:29,144 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:29,233 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:29,291 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:29,342 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:29,412 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:29,479 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:29,543 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:29,602 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:29,678 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:29,772 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:29,819 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:29,872 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:29,901 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:29,937 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:29,970 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:30,001 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:30,038 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:30,071 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:30,107 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:30,160 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:30,200 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:30,242 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:30,280 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:30,320 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:30,359 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:30,403 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:30,444 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:30,483 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:30,523 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:30,558 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:30,591 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:30,625 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:30,657 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:30,689 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:30,718 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:30,750 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:30,783 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:30,816 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:30,847 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:30,896 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:30,928 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:30,954 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:30,982 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,012 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,047 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,078 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,105 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,135 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,169 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,216 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,248 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,279 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,320 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,349 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,379 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,423 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,451 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,481 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,508 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,533 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,564 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,591 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,619 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,647 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,677 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,705 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,729 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,756 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,790 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,824 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,853 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,883 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,914 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:31,947 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,000 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,028 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,059 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,091 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,124 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,155 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,186 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,222 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,250 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,281 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,314 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,362 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,395 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,426 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,463 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,493 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,524 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,555 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,587 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,617 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,650 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,683 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,714 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,762 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,797 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,828 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,861 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,888 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,921 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,956 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:32,987 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:33,018 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:33,050 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:33,082 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:33,112 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:33,163 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:33,194 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:33,225 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:33,257 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:33,290 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:33,323 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:33,354 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:33,386 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:33,419 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:33,449 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:33,481 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:33,514 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:33,563 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:33,592 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:33,626 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:33,656 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:33,689 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:33,724 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:33,753 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:33,785 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:33,817 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:33,850 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:33,881 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:33,913 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:33,962 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:33,993 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:34,025 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:34,060 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:34,091 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:34,124 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:34,157 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:16:34,157 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:34,186 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:34,217 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:34,250 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:34,282 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:34,332 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:34,360 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:34,394 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:34,426 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:34,459 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:34,490 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:34,522 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:34,554 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:34,586 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:34,616 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:34,648 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:34,682 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:34,731 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:34,762 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:34,794 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:34,826 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:34,857 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:34,890 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:34,924 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:34,957 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:34,989 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:35,019 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:35,049 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:35,084 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:35,130 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:35,165 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:35,197 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:35,227 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:35,259 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:35,290 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:35,322 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:35,355 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:35,384 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:35,420 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:35,452 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:35,481 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:35,531 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:35,561 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:35,593 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:35,624 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:35,658 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:35,690 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:35,724 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:38,157 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:38,184 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:38,216 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:38,266 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:38,296 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:38,328 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:38,360 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:38,389 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:38,426 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:38,461 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:38,493 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:38,521 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:38,551 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:38,585 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:38,616 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:38,664 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:38,696 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:38,796 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:38,824 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:40,557 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:16:40,557 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:40,586 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:40,632 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:40,664 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:40,698 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:40,727 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:40,761 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:40,793 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-03 12:16:40,794 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:40,824 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:40,859 - DEBUG - logger - Eyes closed confirmed - EAR: 0.175, Frames: 20
+2026-04-03 12:16:40,859 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:40,887 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:40,921 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:40,952 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:40,984 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:46,329 - DEBUG - logger - Fatigue: 42% | State: FATIGUE | Alarm: INACTIVE
+2026-04-03 12:16:46,330 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:46,360 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-03 12:16:46,362 - INFO - logger - Persistent alarm activated
+2026-04-03 12:16:46,362 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:46,394 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:46,427 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:46,457 - DEBUG - logger - Eyes closed confirmed - EAR: 0.202, Frames: 20
+2026-04-03 12:16:46,457 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:46,486 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:46,537 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:46,567 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:46,602 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:46,632 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:46,663 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:46,698 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:46,729 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:46,760 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:46,792 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:46,825 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:47,068 - INFO - logger - Persistent alarm deactivated
+2026-04-03 12:16:48,144 - INFO - logger - Persistent alarm activated
+2026-04-03 12:16:48,145 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:48,170 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:48,204 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:48,230 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:48,264 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:48,302 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:48,332 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:48,362 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:48,393 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:48,426 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:48,458 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:48,504 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:48,535 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:48,569 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:48,599 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:48,637 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:48,675 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:48,709 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:48,744 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:48,776 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:48,812 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:48,849 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:48,873 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:48,912 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:48,941 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:48,981 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:49,015 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:49,050 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:49,086 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:49,123 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:49,157 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:49,192 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:49,224 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:49,258 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:49,288 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:49,325 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:49,361 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:49,395 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:49,428 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:49,459 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:49,492 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:49,526 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:49,560 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:49,600 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-03 12:16:49,600 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:49,642 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:49,677 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:49,712 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:49,743 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:49,776 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:49,811 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:49,851 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:49,892 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:49,936 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:49,979 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:50,025 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:50,062 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:50,103 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:50,140 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:50,177 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:50,218 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:50,264 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:50,303 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:50,340 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:50,384 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:50,437 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:50,506 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:50,549 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:50,593 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:50,636 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:50,670 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:50,704 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:50,734 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:50,770 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:50,801 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:50,833 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-03 12:16:50,833 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:50,862 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:50,894 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:50,921 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:50,957 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:51,001 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:51,053 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:51,095 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:51,135 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:51,176 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:51,214 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:51,252 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:51,294 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:51,336 - DEBUG - logger - Fatigue: 9% | State: NORMAL | Alarm: ACTIVE
+2026-04-03 12:16:51,336 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:51,380 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:51,429 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:51,467 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:51,511 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:51,551 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:51,589 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:51,626 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:51,664 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:51,708 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:51,748 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:51,792 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:51,829 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:51,869 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:51,909 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:51,949 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:51,994 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:52,041 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:52,078 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:52,120 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:52,168 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:52,214 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:52,263 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:52,314 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:52,360 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:52,401 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:52,450 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:52,494 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:52,536 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:52,574 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:52,616 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:52,655 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-03 12:16:52,924 - INFO - logger - Persistent alarm deactivated
+2026-04-03 12:16:52,924 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:52,966 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:53,007 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:53,047 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:53,089 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:53,129 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:53,166 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:53,343 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:53,395 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:53,441 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:53,503 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:53,561 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:53,603 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:53,649 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:53,690 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:53,731 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:53,773 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:53,809 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:53,847 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:53,891 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:53,933 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:53,974 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:54,020 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:54,064 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:54,102 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:54,148 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:54,194 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:54,231 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:54,267 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:54,315 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:54,366 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:54,410 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:54,460 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:54,507 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:54,550 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:54,594 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:54,639 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:54,684 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:54,728 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:54,769 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:54,815 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:54,853 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:54,895 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:55,079 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:55,132 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:55,192 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:55,248 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:55,290 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:55,335 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:55,388 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:55,424 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:55,466 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:55,507 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:55,544 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:55,583 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:55,630 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:55,677 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:55,719 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:55,763 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:55,806 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:55,860 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:55,903 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:55,947 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:55,990 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:56,037 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:56,083 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:56,129 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:56,166 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:56,204 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:56,239 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:56,277 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:56,319 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:56,359 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:16:56,359 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:56,400 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:56,447 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:56,483 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:56,527 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:56,567 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:56,604 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:56,649 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:56,686 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:56,729 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:56,774 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:56,819 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:56,864 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:56,913 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:56,960 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:57,007 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:57,049 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:57,095 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:57,138 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:57,188 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:57,236 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:57,274 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:57,315 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:57,350 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:57,388 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:57,429 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:57,466 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:57,505 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:57,547 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:57,593 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:57,639 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:57,680 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:57,717 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:57,759 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:57,791 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:57,827 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:57,867 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:57,901 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:57,944 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:57,989 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:58,035 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:58,087 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:58,133 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:58,184 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:58,232 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:58,283 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:58,326 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:58,374 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:58,423 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:58,468 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:58,503 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:58,542 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:58,578 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:58,618 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:58,662 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:58,707 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:58,754 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:58,799 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:58,847 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:58,892 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:58,936 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:58,979 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:59,026 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:59,067 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:59,104 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:59,228 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:59,300 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:59,389 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:59,477 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:59,540 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:59,584 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:59,633 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:59,680 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:59,730 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:59,828 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:59,886 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:16:59,947 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:00,010 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:00,068 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:00,112 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:00,155 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:00,192 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:00,224 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:00,259 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:00,296 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:00,324 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:00,364 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:00,405 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:00,442 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:00,480 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:00,520 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:00,560 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:00,595 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:00,634 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:00,677 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:00,728 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:00,767 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:00,803 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:00,843 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:00,883 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:00,929 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:00,966 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:01,004 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:01,044 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:01,075 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:01,108 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:01,142 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:01,170 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:01,203 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:01,243 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:01,280 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:01,318 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:01,363 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:17:01,363 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:01,399 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:01,431 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:01,468 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:01,504 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:01,537 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:01,574 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:01,606 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:01,641 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:01,682 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:01,719 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:01,757 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:01,799 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:01,834 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:01,868 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:01,903 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:01,938 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:01,971 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:02,008 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:02,049 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:02,102 - WARNING - logger - Dangerous posture detected: TETE TROP BAISSEE
+2026-04-03 12:17:02,103 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:02,147 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:02,186 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:02,291 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:02,443 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:02,512 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:02,561 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:02,598 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:02,633 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:02,667 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-03 12:17:02,669 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:02,705 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:02,743 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:02,773 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:02,801 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:02,853 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:02,891 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:02,933 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:02,964 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:02,996 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,025 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,053 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,080 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,109 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-03 12:17:03,110 - INFO - logger - Persistent alarm activated
+2026-04-03 12:17:03,110 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,139 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,173 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,211 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,247 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,278 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,310 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,342 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,372 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,401 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,429 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,453 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,483 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,515 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,549 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,581 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,660 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,691 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,717 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,746 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,773 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,800 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,829 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,852 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,883 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,915 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,948 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:03,979 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:04,045 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:04,074 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:04,109 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:04,134 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:04,161 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:04,191 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:04,218 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:04,249 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:04,283 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:04,313 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:04,348 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:04,378 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:04,446 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:04,468 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:04,494 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:04,521 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:04,556 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:04,588 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:04,617 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:04,649 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:04,682 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:04,726 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:04,771 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:04,807 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:04,854 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:04,893 - WARNING - logger - Dangerous posture detected: TETE TROP BAISSEE
+2026-04-03 12:17:04,893 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:04,922 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:04,963 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:04,997 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:05,027 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:05,056 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:05,083 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:05,109 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:05,156 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:05,204 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:05,233 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:05,260 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:05,286 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:05,314 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:05,340 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:05,365 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:05,391 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:05,417 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:05,448 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:05,483 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:05,514 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:05,562 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:05,595 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:05,625 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:05,656 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:05,694 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:05,724 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:05,753 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:05,786 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:05,820 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:05,850 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:05,899 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:05,941 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:05,966 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:06,001 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:06,027 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:06,057 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:06,098 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:06,124 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:06,156 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:06,185 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:06,216 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:06,268 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:06,299 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:06,331 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:06,361 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:06,394 - DEBUG - logger - Fatigue: 60% | State: ALERT | Alarm: ACTIVE
+2026-04-03 12:17:06,395 - ERROR - logger - Frame processing error: 'VisualizationOverlay' object has no attribute 'draw_landmarks'
+2026-04-03 12:17:06,400 - INFO - logger - Shutting down system...
+2026-04-03 12:17:06,631 - INFO - logger - Persistent alarm deactivated
+2026-04-03 12:17:07,042 - INFO - logger - System shutdown complete
+2026-04-03 12:32:47,613 - INFO - logger - Initializing system components...
+2026-04-03 12:32:47,646 - INFO - logger - FaceDetector initialized successfully
+2026-04-03 12:32:47,774 - INFO - logger - System initialized successfully
+2026-04-03 12:32:47,775 - INFO - logger - Starting main detection loop
+2026-04-03 12:32:47,775 - INFO - logger - Click step 1 to launch simulation, step 2 to start driving, step 5 to stop, Q to quit
+2026-04-03 12:32:55,441 - INFO - logger - Simulation launched - waiting for vehicle start
+2026-04-03 12:33:09,752 - INFO - logger - Camera initialized: 640x480
+2026-04-03 12:33:09,752 - INFO - logger - Driving mode started - face analysis enabled
+2026-04-03 12:33:10,364 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:33:15,366 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:33:20,368 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:33:21,989 - INFO - logger - Persistent alarm activated
+2026-04-03 12:33:22,547 - INFO - logger - Persistent alarm deactivated
+2026-04-03 12:33:22,586 - INFO - logger - Persistent alarm activated
+2026-04-03 12:33:23,142 - INFO - logger - Persistent alarm deactivated
+2026-04-03 12:33:23,195 - INFO - logger - Persistent alarm activated
+2026-04-03 12:33:26,720 - INFO - logger - Persistent alarm deactivated
+2026-04-03 12:33:26,768 - INFO - logger - Persistent alarm activated
+2026-04-03 12:33:31,700 - INFO - logger - Persistent alarm deactivated
+2026-04-03 12:33:31,755 - INFO - logger - Persistent alarm activated
+2026-04-03 12:33:32,462 - INFO - logger - Persistent alarm deactivated
+2026-04-03 12:33:40,587 - INFO - logger - Persistent alarm activated
+2026-04-03 12:33:41,142 - INFO - logger - Persistent alarm deactivated
+2026-04-03 12:33:41,184 - INFO - logger - Persistent alarm activated
+2026-04-03 12:33:41,738 - INFO - logger - Persistent alarm deactivated
+2026-04-03 12:33:47,135 - INFO - logger - Persistent alarm activated
+2026-04-03 12:33:47,538 - INFO - logger - Persistent alarm deactivated
+2026-04-03 12:33:47,813 - INFO - logger - Persistent alarm activated
+2026-04-03 12:33:48,216 - INFO - logger - Persistent alarm deactivated
+2026-04-03 12:33:48,847 - DEBUG - logger - Fatigue: 9% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:33:49,263 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-03 12:33:50,076 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-03 12:33:50,077 - INFO - logger - Persistent alarm activated
+2026-04-03 12:33:53,886 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 12:33:58,917 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 12:34:02,245 - WARNING - logger - Dangerous posture detected: TETE TROP BAISSEE
+2026-04-03 12:34:02,289 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A DROITE
+2026-04-03 12:34:02,337 - WARNING - logger - Dangerous posture detected: TETE TROP BAISSEE
+2026-04-03 12:34:02,434 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A DROITE
+2026-04-03 12:34:03,262 - WARNING - logger - Dangerous posture detected: TETE TROP BAISSEE
+2026-04-03 12:34:03,395 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A DROITE
+2026-04-03 12:34:03,934 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 12:34:09,000 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 12:34:13,179 - INFO - logger - Persistent alarm deactivated
+2026-04-03 12:34:17,763 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 12:34:17,763 - INFO - logger - Persistent alarm activated
+2026-04-03 12:34:18,166 - INFO - logger - Persistent alarm deactivated
+2026-04-03 12:34:18,615 - INFO - logger - Persistent alarm activated
+2026-04-03 12:34:21,982 - WARNING - logger - Dangerous posture detected: TETE TROP BAISSEE
+2026-04-03 12:34:22,804 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 12:34:23,246 - INFO - logger - Persistent alarm deactivated
+2026-04-03 12:34:25,175 - INFO - logger - Persistent alarm activated
+2026-04-03 12:34:27,139 - INFO - logger - Persistent alarm deactivated
+2026-04-03 12:34:27,545 - INFO - logger - Driving mode stopped - face analysis disabled
+2026-04-03 12:37:01,164 - INFO - logger - Shutting down system...
+2026-04-03 12:37:01,199 - INFO - logger - System shutdown complete
+2026-04-03 12:50:09,872 - INFO - logger - Initializing system components...
+2026-04-03 12:50:09,904 - INFO - logger - FaceDetector initialized successfully
+2026-04-03 12:50:10,351 - INFO - logger - System initialized successfully
+2026-04-03 12:50:10,351 - INFO - logger - Starting main detection loop
+2026-04-03 12:50:10,351 - INFO - logger - Click step 1 to launch simulation, step 2 to start driving, step 5 to stop, Q to quit
+2026-04-03 12:50:21,746 - INFO - logger - Simulation launched - waiting for vehicle start
+2026-04-03 12:50:26,240 - INFO - logger - Driving mode stopped - face analysis disabled
+2026-04-03 12:50:39,244 - INFO - logger - Camera initialized: 640x480
+2026-04-03 12:50:39,244 - INFO - logger - Driving mode started - face analysis enabled
+2026-04-03 12:50:39,984 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:50:45,001 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:50:47,657 - INFO - logger - Shutting down system...
+2026-04-03 12:50:48,185 - INFO - logger - System shutdown complete
+2026-04-03 12:52:37,336 - INFO - logger - Initializing system components...
+2026-04-03 12:52:37,394 - INFO - logger - FaceDetector initialized successfully
+2026-04-03 12:52:37,506 - INFO - logger - System initialized successfully
+2026-04-03 12:52:37,506 - INFO - logger - Starting main detection loop
+2026-04-03 12:52:37,506 - INFO - logger - Click step 1 to launch simulation, step 2 to start driving, step 5 to stop, Q to quit
+2026-04-03 12:52:41,739 - INFO - logger - Simulation launched - waiting for vehicle start
+2026-04-03 12:52:55,924 - INFO - logger - Camera initialized: 640x480
+2026-04-03 12:52:55,924 - INFO - logger - Driving mode started - face analysis enabled
+2026-04-03 12:52:56,450 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:53:00,032 - INFO - logger - Persistent alarm activated
+2026-04-03 12:53:00,436 - INFO - logger - Persistent alarm deactivated
+2026-04-03 12:53:00,484 - INFO - logger - Persistent alarm activated
+2026-04-03 12:53:00,887 - INFO - logger - Persistent alarm deactivated
+2026-04-03 12:53:01,471 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:53:06,508 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:53:11,553 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:53:16,560 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:53:18,047 - INFO - logger - Driving mode stopped - face analysis disabled
+2026-04-03 12:53:48,307 - INFO - logger - Camera initialized: 640x480
+2026-04-03 12:53:48,308 - INFO - logger - Driving mode started - face analysis enabled
+2026-04-03 12:53:48,851 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:53:53,936 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:53:58,951 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:54:03,973 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:54:08,993 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:54:14,003 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:54:19,047 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:54:24,105 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:54:29,121 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:54:30,811 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-03 12:54:30,911 - DEBUG - logger - Eyes closed confirmed - EAR: 0.150, Frames: 20
+2026-04-03 12:54:31,188 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-03 12:54:31,189 - INFO - logger - Persistent alarm activated
+2026-04-03 12:54:31,387 - DEBUG - logger - Eyes closed confirmed - EAR: 0.150, Frames: 30
+2026-04-03 12:54:31,872 - DEBUG - logger - Eyes closed confirmed - EAR: 0.150, Frames: 40
+2026-04-03 12:54:34,144 - DEBUG - logger - Fatigue: 90% | State: ALERT | Alarm: ACTIVE
+2026-04-03 12:54:39,162 - DEBUG - logger - Fatigue: 45% | State: ALERT | Alarm: ACTIVE
+2026-04-03 12:54:39,235 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-03 12:54:39,855 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-03 12:54:40,191 - DEBUG - logger - Eyes closed confirmed - EAR: 0.152, Frames: 20
+2026-04-03 12:54:40,788 - DEBUG - logger - Eyes closed confirmed - EAR: 0.150, Frames: 30
+2026-04-03 12:54:44,240 - DEBUG - logger - Fatigue: 84% | State: ALERT | Alarm: ACTIVE
+2026-04-03 12:54:48,579 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-03 12:54:49,279 - DEBUG - logger - Fatigue: 40% | State: FATIGUE | Alarm: ACTIVE
+2026-04-03 12:54:51,433 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-03 12:54:54,211 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-03 12:54:54,463 - INFO - logger - Persistent alarm deactivated
+2026-04-03 12:54:54,516 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:54:56,837 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-03 12:54:56,936 - DEBUG - logger - Eyes closed confirmed - EAR: 0.150, Frames: 20
+2026-04-03 12:54:57,243 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-03 12:54:57,245 - INFO - logger - Persistent alarm activated
+2026-04-03 12:54:57,473 - DEBUG - logger - Eyes closed confirmed - EAR: 0.195, Frames: 30
+2026-04-03 12:54:57,743 - DEBUG - logger - Eyes closed confirmed - EAR: 0.267, Frames: 20
+2026-04-03 12:54:59,543 - DEBUG - logger - Fatigue: 76% | State: ALERT | Alarm: ACTIVE
+2026-04-03 12:55:01,391 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-03 12:55:02,906 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-03 12:55:04,557 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: ACTIVE
+2026-04-03 12:55:05,095 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-03 12:55:05,397 - INFO - logger - Persistent alarm deactivated
+2026-04-03 12:55:09,581 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:55:14,654 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:55:19,791 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:55:24,826 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:55:25,881 - INFO - logger - Persistent alarm activated
+2026-04-03 12:55:26,435 - INFO - logger - Persistent alarm deactivated
+2026-04-03 12:55:29,135 - INFO - logger - Persistent alarm activated
+2026-04-03 12:55:29,687 - INFO - logger - Persistent alarm deactivated
+2026-04-03 12:55:29,857 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:55:31,506 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-03 12:55:31,835 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-03 12:55:34,891 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:55:37,041 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-03 12:55:37,155 - DEBUG - logger - Eyes closed confirmed - EAR: 0.150, Frames: 20
+2026-04-03 12:55:37,467 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-03 12:55:37,469 - INFO - logger - Persistent alarm activated
+2026-04-03 12:55:37,683 - DEBUG - logger - Eyes closed confirmed - EAR: 0.150, Frames: 30
+2026-04-03 12:55:39,892 - DEBUG - logger - Fatigue: 83% | State: ALERT | Alarm: ACTIVE
+2026-04-03 12:55:43,051 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-03 12:55:44,974 - DEBUG - logger - Fatigue: 27% | State: FATIGUE | Alarm: ACTIVE
+2026-04-03 12:55:45,966 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-03 12:55:50,051 - DEBUG - logger - Fatigue: 15% | State: NORMAL | Alarm: ACTIVE
+2026-04-03 12:55:50,138 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-03 12:55:50,170 - INFO - logger - Persistent alarm deactivated
+2026-04-03 12:55:50,295 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-03 12:55:50,981 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-03 12:55:50,982 - INFO - logger - Persistent alarm activated
+2026-04-03 12:55:53,799 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-03 12:55:55,074 - DEBUG - logger - Fatigue: 27% | State: FATIGUE | Alarm: ACTIVE
+2026-04-03 12:55:55,627 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-03 12:55:57,857 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-03 12:55:58,032 - INFO - logger - Persistent alarm deactivated
+2026-04-03 12:56:00,114 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:56:05,160 - DEBUG - logger - Fatigue: 12% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:56:05,459 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-03 12:56:06,934 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-03 12:56:10,166 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:56:15,169 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:56:16,290 - WARNING - logger - Dangerous posture detected: TETE TROP BAISSEE
+2026-04-03 12:56:16,907 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-03 12:56:17,957 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-03 12:56:17,958 - INFO - logger - Persistent alarm activated
+2026-04-03 12:56:20,285 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 12:56:25,340 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 12:56:30,371 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 12:56:35,412 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 12:56:37,508 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A DROITE
+2026-04-03 12:56:37,790 - WARNING - logger - Dangerous posture detected: TETE TROP BAISSEE
+2026-04-03 12:56:40,518 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 12:56:42,603 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A GAUCHE
+2026-04-03 12:56:42,938 - WARNING - logger - Dangerous posture detected: TETE TROP BAISSEE
+2026-04-03 12:56:45,604 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 12:56:50,623 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 12:56:54,629 - INFO - logger - Persistent alarm deactivated
+2026-04-03 12:56:55,816 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 12:56:55,818 - INFO - logger - Persistent alarm activated
+2026-04-03 12:56:58,531 - INFO - logger - Shutting down system...
+2026-04-03 12:56:58,640 - INFO - logger - Persistent alarm deactivated
+2026-04-03 12:56:59,047 - INFO - logger - System shutdown complete
+2026-04-03 12:58:20,236 - INFO - logger - Initializing system components...
+2026-04-03 12:58:20,279 - INFO - logger - FaceDetector initialized successfully
+2026-04-03 12:58:20,679 - INFO - logger - System initialized successfully
+2026-04-03 12:58:20,679 - INFO - logger - Starting main detection loop
+2026-04-03 12:58:20,679 - INFO - logger - Click step 1 to launch simulation, step 2 to start driving, step 5 to stop, Q to quit
+2026-04-03 12:58:27,512 - INFO - logger - Simulation launched - waiting for vehicle start
+2026-04-03 12:58:39,879 - INFO - logger - Camera initialized: 640x480
+2026-04-03 12:58:39,879 - INFO - logger - Driving mode started - face analysis enabled
+2026-04-03 12:58:40,435 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:58:45,479 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:58:50,493 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 12:58:53,761 - INFO - logger - Shutting down system...
+2026-04-03 12:58:54,216 - INFO - logger - System shutdown complete
+2026-04-03 14:07:41,493 - INFO - logger - Initializing system components...
+2026-04-03 14:07:41,540 - INFO - logger - FaceDetector initialized successfully
+2026-04-03 14:07:41,934 - INFO - logger - System initialized successfully
+2026-04-03 14:07:41,934 - INFO - logger - Starting main detection loop
+2026-04-03 14:07:41,934 - INFO - logger - Click step 1 to launch simulation, step 2 to start driving, step 5 to stop, Q to quit
+2026-04-03 14:07:49,467 - INFO - logger - Shutting down system...
+2026-04-03 14:07:49,491 - INFO - logger - System shutdown complete
+2026-04-03 15:15:56,134 - INFO - logger - Initializing system components...
+2026-04-03 15:15:56,156 - INFO - logger - FaceDetector initialized successfully
+2026-04-03 15:15:56,566 - INFO - logger - System initialized successfully
+2026-04-03 15:15:56,566 - INFO - logger - Starting main detection loop
+2026-04-03 15:15:56,566 - INFO - logger - Click step 1 to launch simulation, step 2 to start driving, step 5 to stop, Q to quit
+2026-04-03 15:16:01,152 - INFO - logger - Simulation launched - waiting for vehicle start
+2026-04-03 15:16:11,256 - INFO - logger - Camera initialized: 640x480
+2026-04-03 15:16:11,256 - INFO - logger - Driving mode started - face analysis enabled
+2026-04-03 15:16:12,271 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 15:16:17,303 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 15:16:22,318 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 15:16:27,345 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 15:16:31,648 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-03 15:16:31,888 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-03 15:16:32,355 - DEBUG - logger - Fatigue: 11% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 15:16:37,389 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 15:16:37,505 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A GAUCHE
+2026-04-03 15:16:37,947 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-03 15:16:38,567 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-03 15:16:38,567 - INFO - logger - Persistent alarm activated
+2026-04-03 15:16:42,398 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 15:16:47,365 - WARNING - logger - Dangerous posture detected: VISAGE TOURNE A DROITE
+2026-04-03 15:16:47,415 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A GAUCHE
+2026-04-03 15:16:47,415 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 15:16:52,444 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 15:16:57,482 - DEBUG - logger - Fatigue: 62% | State: ALERT | Alarm: ACTIVE
+2026-04-03 15:16:58,385 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-03 15:16:59,656 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-03 15:17:00,241 - INFO - logger - Persistent alarm deactivated
+2026-04-03 15:17:02,650 - DEBUG - logger - Fatigue: 14% | State: NORMAL | Alarm: ACTIVE
+2026-04-03 15:17:02,651 - INFO - logger - Persistent alarm activated
+2026-04-03 15:17:04,105 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-03 15:17:04,462 - INFO - logger - Persistent alarm deactivated
+2026-04-03 15:17:07,667 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 15:17:12,678 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 15:17:17,712 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 15:17:18,046 - INFO - logger - Shutting down system...
+2026-04-03 15:17:18,428 - INFO - logger - System shutdown complete
+2026-04-03 15:33:59,800 - INFO - logger - Initializing system components...
+2026-04-03 15:33:59,817 - INFO - logger - FaceDetector initialized successfully
+2026-04-03 15:34:00,171 - INFO - logger - System initialized successfully
+2026-04-03 15:34:00,171 - INFO - logger - Starting main detection loop
+2026-04-03 15:34:00,171 - INFO - logger - Click step 1 to launch simulation, step 2 to start driving, step 5 to stop, Q to quit
+2026-04-03 15:37:39,653 - INFO - logger - Start the simulation before starting the vehicle
+2026-04-03 15:37:43,378 - INFO - logger - Simulation launched - waiting for vehicle start
+2026-04-03 15:37:53,270 - INFO - logger - Camera initialized: 640x480
+2026-04-03 15:37:53,271 - INFO - logger - Driving mode started - face analysis enabled
+2026-04-03 15:37:53,628 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 15:37:58,659 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 15:38:03,679 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 15:38:04,598 - INFO - logger - Driving mode stopped - face analysis disabled
+2026-04-03 15:47:03,666 - INFO - logger - Camera initialized: 640x480
+2026-04-03 15:47:03,668 - INFO - logger - Driving mode started - face analysis enabled
+2026-04-03 15:47:04,178 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 15:47:09,198 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 15:47:14,223 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 15:47:18,265 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-03 15:47:18,366 - DEBUG - logger - Eyes closed confirmed - EAR: 0.150, Frames: 20
+2026-04-03 15:47:18,634 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-03 15:47:18,635 - INFO - logger - Persistent alarm activated
+2026-04-03 15:47:18,827 - DEBUG - logger - Eyes closed confirmed - EAR: 0.150, Frames: 30
+2026-04-03 15:47:19,272 - DEBUG - logger - Fatigue: 84% | State: ALERT | Alarm: ACTIVE
+2026-04-03 15:47:19,324 - DEBUG - logger - Eyes closed confirmed - EAR: 0.150, Frames: 40
+2026-04-03 15:47:19,861 - DEBUG - logger - Eyes closed confirmed - EAR: 0.150, Frames: 50
+2026-04-03 15:47:21,592 - DEBUG - logger - Eyes closed confirmed - EAR: 0.152, Frames: 30
+2026-04-03 15:47:22,053 - DEBUG - logger - Eyes closed confirmed - EAR: 0.154, Frames: 40
+2026-04-03 15:47:22,196 - DEBUG - logger - Eyes closed confirmed - EAR: 0.159, Frames: 40
+2026-04-03 15:47:23,964 - INFO - logger - Persistent alarm deactivated
+2026-04-03 15:47:26,401 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 15:47:26,402 - INFO - logger - Persistent alarm activated
+2026-04-03 15:47:30,271 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-03 15:47:31,411 - DEBUG - logger - Fatigue: 26% | State: FATIGUE | Alarm: ACTIVE
+2026-04-03 15:47:31,788 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-03 15:47:32,563 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-03 15:47:32,824 - DEBUG - logger - Eyes closed confirmed - EAR: 0.155, Frames: 20
+2026-04-03 15:47:32,966 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-03 15:47:33,291 - DEBUG - logger - Eyes closed confirmed - EAR: 0.152, Frames: 30
+2026-04-03 15:47:33,785 - DEBUG - logger - Eyes closed confirmed - EAR: 0.156, Frames: 40
+2026-04-03 15:47:34,319 - DEBUG - logger - Eyes closed confirmed - EAR: 0.153, Frames: 50
+2026-04-03 15:47:34,990 - DEBUG - logger - Eyes closed confirmed - EAR: 0.157, Frames: 40
+2026-04-03 15:47:36,430 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 15:47:39,680 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-03 15:47:41,276 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-03 15:47:41,448 - DEBUG - logger - Fatigue: 17% | State: NORMAL | Alarm: ACTIVE
+2026-04-03 15:47:43,473 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-03 15:47:43,859 - INFO - logger - Persistent alarm deactivated
+2026-04-03 15:47:46,476 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 15:47:51,496 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 15:47:56,547 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 15:48:00,298 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-03 15:48:00,395 - DEBUG - logger - Eyes closed confirmed - EAR: 0.152, Frames: 20
+2026-04-03 15:48:00,663 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-03 15:48:00,665 - INFO - logger - Persistent alarm activated
+2026-04-03 15:48:00,805 - DEBUG - logger - Eyes closed confirmed - EAR: 0.156, Frames: 20
+2026-04-03 15:48:01,592 - DEBUG - logger - Fatigue: 83% | State: ALERT | Alarm: ACTIVE
+2026-04-03 15:48:05,444 - INFO - logger - Persistent alarm deactivated
+2026-04-03 15:48:05,772 - INFO - logger - Persistent alarm activated
+2026-04-03 15:48:06,326 - INFO - logger - Persistent alarm deactivated
+2026-04-03 15:48:06,379 - INFO - logger - Persistent alarm activated
+2026-04-03 15:48:06,614 - DEBUG - logger - Fatigue: 55% | State: ALERT | Alarm: ACTIVE
+2026-04-03 15:48:07,168 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-03 15:48:08,722 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-03 15:48:10,772 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-03 15:48:11,162 - INFO - logger - Persistent alarm deactivated
+2026-04-03 15:48:11,624 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 15:48:14,914 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-03 15:48:15,292 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-03 15:48:15,292 - INFO - logger - Persistent alarm activated
+2026-04-03 15:48:15,700 - DEBUG - logger - Eyes closed confirmed - EAR: 0.157, Frames: 20
+2026-04-03 15:48:16,625 - DEBUG - logger - Fatigue: 94% | State: ALERT | Alarm: ACTIVE
+2026-04-03 15:48:19,352 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-03 15:48:20,832 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-03 15:48:21,414 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-03 15:48:21,649 - DEBUG - logger - Fatigue: 36% | State: FATIGUE | Alarm: ACTIVE
+2026-04-03 15:48:21,694 - DEBUG - logger - Eyes closed confirmed - EAR: 0.205, Frames: 20
+2026-04-03 15:48:21,788 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-03 15:48:21,840 - DEBUG - logger - Eyes closed confirmed - EAR: 0.202, Frames: 20
+2026-04-03 15:48:22,286 - DEBUG - logger - Eyes closed confirmed - EAR: 0.154, Frames: 30
+2026-04-03 15:48:22,767 - DEBUG - logger - Eyes closed confirmed - EAR: 0.150, Frames: 40
+2026-04-03 15:48:23,268 - DEBUG - logger - Eyes closed confirmed - EAR: 0.179, Frames: 50
+2026-04-03 15:48:23,732 - DEBUG - logger - Eyes closed confirmed - EAR: 0.156, Frames: 60
+2026-04-03 15:48:24,135 - DEBUG - logger - Eyes closed confirmed - EAR: 0.179, Frames: 60
+2026-04-03 15:48:26,666 - DEBUG - logger - Fatigue: 94% | State: ALERT | Alarm: ACTIVE
+2026-04-03 15:48:27,268 - INFO - logger - Persistent alarm deactivated
+2026-04-03 15:48:27,764 - INFO - logger - Persistent alarm activated
+2026-04-03 15:48:28,166 - INFO - logger - Persistent alarm deactivated
+2026-04-03 15:48:28,220 - INFO - logger - Persistent alarm activated
+2026-04-03 15:48:28,926 - INFO - logger - Persistent alarm deactivated
+2026-04-03 15:48:29,847 - INFO - logger - Persistent alarm activated
+2026-04-03 15:48:31,105 - INFO - logger - Persistent alarm deactivated
+2026-04-03 15:48:31,231 - INFO - logger - Persistent alarm activated
+2026-04-03 15:48:31,692 - DEBUG - logger - Fatigue: 50% | State: ALERT | Alarm: ACTIVE
+2026-04-03 15:48:32,036 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-03 15:48:33,564 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-03 15:48:34,452 - INFO - logger - Persistent alarm deactivated
+2026-04-03 15:48:36,885 - DEBUG - logger - Fatigue: 10% | State: NORMAL | Alarm: ACTIVE
+2026-04-03 15:48:36,886 - INFO - logger - Persistent alarm activated
+2026-04-03 15:48:38,437 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-03 15:48:38,700 - INFO - logger - Persistent alarm deactivated
+2026-04-03 15:48:45,790 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 15:49:04,291 - DEBUG - logger - Fatigue: 20% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 15:49:04,333 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-03 15:49:04,774 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-03 15:49:08,563 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-03 15:49:09,341 - DEBUG - logger - Fatigue: 36% | State: FATIGUE | Alarm: INACTIVE
+2026-04-03 15:49:10,329 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-03 15:49:14,379 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 15:49:16,520 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-03 15:49:17,304 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-03 15:49:17,305 - INFO - logger - Persistent alarm activated
+2026-04-03 15:49:19,408 - DEBUG - logger - Fatigue: 99% | State: ALERT | Alarm: ACTIVE
+2026-04-03 15:49:21,530 - INFO - logger - Persistent alarm deactivated
+2026-04-03 15:49:21,971 - INFO - logger - Persistent alarm activated
+2026-04-03 15:49:24,422 - DEBUG - logger - Fatigue: 83% | State: ALERT | Alarm: ACTIVE
+2026-04-03 15:49:26,619 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-03 15:49:28,528 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-03 15:49:29,443 - DEBUG - logger - Fatigue: 6% | State: NORMAL | Alarm: ACTIVE
+2026-04-03 15:49:30,768 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-03 15:49:31,125 - INFO - logger - Persistent alarm deactivated
+2026-04-03 15:49:31,421 - INFO - logger - Shutting down system...
+2026-04-03 15:49:31,830 - INFO - logger - System shutdown complete
+2026-04-03 16:51:57,848 - INFO - logger - Initializing system components...
+2026-04-03 16:51:57,864 - INFO - logger - FaceDetector initialized successfully
+2026-04-03 16:51:58,267 - INFO - logger - System initialized successfully
+2026-04-03 16:51:58,267 - INFO - logger - Starting main detection loop
+2026-04-03 16:51:58,267 - INFO - logger - Click step 1 to launch simulation, step 2 to start driving, step 5 to stop, Q to quit
+2026-04-03 16:57:21,603 - INFO - logger - Start the simulation before starting the vehicle
+2026-04-03 16:57:29,186 - INFO - logger - Simulation launched - waiting for vehicle start
+2026-04-03 16:57:37,756 - INFO - logger - Camera initialized: 640x480
+2026-04-03 16:57:37,756 - INFO - logger - Driving mode started - face analysis enabled
+2026-04-03 16:57:38,703 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 16:57:43,726 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 16:57:47,163 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-03 16:57:47,965 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-03 16:57:47,966 - INFO - logger - Persistent alarm activated
+2026-04-03 16:57:48,758 - DEBUG - logger - Fatigue: 68% | State: ALERT | Alarm: ACTIVE
+2026-04-03 16:57:51,103 - DEBUG - logger - Eyes closed confirmed - EAR: 0.151, Frames: 20
+2026-04-03 16:57:51,634 - DEBUG - logger - Eyes closed confirmed - EAR: 0.152, Frames: 30
+2026-04-03 16:57:53,789 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 16:57:58,816 - DEBUG - logger - Fatigue: 54% | State: ALERT | Alarm: ACTIVE
+2026-04-03 16:57:59,399 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-03 16:58:01,019 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-03 16:58:03,117 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-03 16:58:03,466 - INFO - logger - Persistent alarm deactivated
+2026-04-03 16:58:03,854 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 16:58:08,909 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 16:58:13,912 - DEBUG - logger - Fatigue: 2% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 16:58:15,514 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-03 16:58:16,338 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-03 16:58:16,339 - INFO - logger - Persistent alarm activated
+2026-04-03 16:58:18,943 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 16:58:23,988 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 16:58:29,012 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 16:58:34,038 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-03 16:58:38,834 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-03 16:58:39,051 - DEBUG - logger - Fatigue: 42% | State: FATIGUE | Alarm: ACTIVE
+2026-04-03 16:58:40,397 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-03 16:58:42,497 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-03 16:58:42,807 - INFO - logger - Persistent alarm deactivated
+2026-04-03 16:58:44,073 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 16:58:49,099 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-03 16:58:49,795 - INFO - logger - Shutting down system...
+2026-04-03 16:58:50,179 - INFO - logger - System shutdown complete
