@@ -175,6 +175,7 @@ class DriverFatigueSystem:
             simulation_started=self.simulation_started,
             driving_active=self.driving_active,
             camera_ready=False,
+            monochrome=True,
         )
         return frame
     
@@ -293,17 +294,17 @@ class DriverFatigueSystem:
             self.no_face_frame_count += 1
             if self.alarm.is_active():
                 self.alarm.stop_alarm()
-            cv2.putText(frame, "AUCUNE PRESENCE CONDUCTEUR DETECTEE", (30, 50),
-                       cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 190, 255), 2)
-            cv2.putText(frame, "Analyse presence et tete 3D en pause", (30, 82),
-                       cv2.FONT_HERSHEY_SIMPLEX, 0.65, (235, 235, 235), 2)
+            if not self.driving_active:
+                cv2.putText(frame, "AUCUNE PRESENCE CONDUCTEUR DETECTEE", (30, 50),
+                           cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 190, 255), 2)
+                cv2.putText(frame, "Analyse presence et tete 3D en pause", (30, 82),
+                           cv2.FONT_HERSHEY_SIMPLEX, 0.65, (235, 235, 235), 2)
             return frame
 
         self.no_face_frame_count = 0
         self.last_presence_time = time.time()
         if presence_bbox is not None:
             x1, y1, x2, y2 = presence_bbox
-            cv2.rectangle(frame, (x1, y1), (x2, y2), (50, 220, 130), 2)
         cv2.putText(frame, "PRESENCE CONDUCTEUR DETECTEE", (30, 50),
                    cv2.FONT_HERSHEY_SIMPLEX, 0.7, (50, 220, 130), 2)
 
@@ -317,50 +318,51 @@ class DriverFatigueSystem:
                 self.alarm.start_alarm()
             elif self.alarm.is_active():
                 self.alarm.stop_alarm()
-            if inferred_sleep is not None:
-                self.visualization.draw_status_bar(
-                    frame,
-                    FatigueState.ALERT,
-                    100.0,
-                    status_text_override="SOMNOLENCE SUSPECTEE",
+            if not self.driving_active:
+                if inferred_sleep is not None:
+                    self.visualization.draw_status_bar(
+                        frame,
+                        FatigueState.ALERT,
+                        100.0,
+                        status_text_override="SOMNOLENCE SUSPECTEE",
+                    )
+                    self.visualization.draw_detection_indicators(
+                        frame,
+                        False,
+                        False,
+                        False,
+                        True,
+                        True,
+                        inferred_sleep,
+                    )
+                    self.visualization.draw_visual_alert(frame, FatigueState.ALERT)
+                elif inferred_distraction is not None:
+                    self.visualization.draw_status_bar(
+                        frame,
+                        FatigueState.FATIGUE,
+                        0.0,
+                        status_text_override="CONDUCTEUR NON CONCENTRE AU VOLANT",
+                    )
+                    self.visualization.draw_detection_indicators(
+                        frame,
+                        False,
+                        False,
+                        False,
+                        False,
+                        True,
+                        inferred_distraction,
+                    )
+                cv2.putText(frame, "SUIVI TETE 3D INDISPONIBLE", (30, 82),
+                           cv2.FONT_HERSHEY_SIMPLEX, 0.65, (0, 190, 255), 2)
+                detail_text = (
+                    "Posture de sommeil detectee meme sans tete 3D complete"
+                    if inferred_sleep is not None
+                    else "Posture extreme detectee meme sans tete 3D complete"
+                    if inferred_distraction is not None
+                    else "Le conducteur est present mais la tete n est pas assez visible"
                 )
-                self.visualization.draw_detection_indicators(
-                    frame,
-                    False,
-                    False,
-                    False,
-                    True,
-                    True,
-                    inferred_sleep,
-                )
-                self.visualization.draw_visual_alert(frame, FatigueState.ALERT)
-            elif inferred_distraction is not None:
-                self.visualization.draw_status_bar(
-                    frame,
-                    FatigueState.FATIGUE,
-                    0.0,
-                    status_text_override="CONDUCTEUR NON CONCENTRE AU VOLANT",
-                )
-                self.visualization.draw_detection_indicators(
-                    frame,
-                    False,
-                    False,
-                    False,
-                    False,
-                    True,
-                    inferred_distraction,
-                )
-            cv2.putText(frame, "SUIVI TETE 3D INDISPONIBLE", (30, 82),
-                       cv2.FONT_HERSHEY_SIMPLEX, 0.65, (0, 190, 255), 2)
-            detail_text = (
-                "Posture de sommeil detectee meme sans tete 3D complete"
-                if inferred_sleep is not None
-                else "Posture extreme detectee meme sans tete 3D complete"
-                if inferred_distraction is not None
-                else "Le conducteur est present mais la tete n est pas assez visible"
-            )
-            cv2.putText(frame, detail_text, (30, 114),
-                       cv2.FONT_HERSHEY_SIMPLEX, 0.58, (235, 235, 235), 2)
+                cv2.putText(frame, detail_text, (30, 114),
+                           cv2.FONT_HERSHEY_SIMPLEX, 0.58, (235, 235, 235), 2)
             return frame
 
         cv2.putText(frame, "ANALYSE TETE CONDUCTEUR 3D ACTIVE", (30, 82),
@@ -405,7 +407,6 @@ class DriverFatigueSystem:
             self.alarm.play_warning()
         
         # Visualization
-        self.visualization.draw_landmarks(frame, left_eye, right_eye, mouth)
         status_text_override = self._get_status_text_override(
             eyes_closed,
             yawning,
@@ -414,19 +415,37 @@ class DriverFatigueSystem:
             metrics['posture_label'],
             metrics['sleep_detected'],
         )
-        self.visualization.draw_status_bar(
-            frame,
-            state,
-            metrics['fatigue_score'],
-            status_text_override=status_text_override,
+
+        # Determine whether a detection event is active (to toggle bbox/marker color)
+        detection_active = bool(
+            eyes_closed
+            or yawning
+            or head_drop
+            or metrics.get('sleep_detected')
+            or metrics.get('dangerous_posture')
+            or state == FatigueState.ALERT
+            or self.fatigue_detector.should_trigger_alarm()
         )
-        self.visualization.draw_metrics(
-            frame, ear, mar,
-            self.eye_analyzer.eye_close_frame_count,
-            self.mouth_analyzer.yawn_frame_count
-        )
-        self.visualization.draw_fatigue_bar(frame, metrics['fatigue_score'], state)
-        self.visualization.draw_alarm_status(frame, self.alarm.is_active())
+
+        # Draw/redraw face bounding box in green (ok) or red (detection)
+        bbox = face_bbox or presence_bbox
+        if bbox is not None:
+            bx1, by1, bx2, by2 = bbox
+            box_color = (0, 0, 255) if detection_active else (50, 220, 130)
+            cv2.rectangle(frame, (bx1, by1), (bx2, by2), box_color, 3)
+
+        # When driving, draw all face mesh landmarks as points
+        if self.driving_active and self.face_detector.face_landmarks is not None:
+            pts = [
+                (int(lm.x * frame.shape[1]), int(lm.y * frame.shape[0]))
+                for lm in self.face_detector.face_landmarks.landmark
+            ]
+            # keep landmark points green regardless of detection state
+            dot_color = (88, 224, 166)
+            self.visualization.draw_full_landmarks(frame, pts, color=dot_color)
+
+        # Always display core detection labels and fatigue progress directly
+        # on the camera feed so the surveillance view shows critical info.
         self.visualization.draw_detection_indicators(
             frame,
             eyes_closed,
@@ -436,7 +455,23 @@ class DriverFatigueSystem:
             metrics['dangerous_posture'],
             metrics['posture_label'],
         )
+
+        # Draw the fatigue progress bar on the image itself.
+        self.visualization.draw_fatigue_bar(frame, metrics['fatigue_score'], state)
+
+        # Visual alert (flashing overlay) if in ALERT state
         self.visualization.draw_visual_alert(frame, state)
+
+        # If there's an override status message (e.g., "CONDUCTEUR NON CONCENTRE..."),
+        # show it as an unobtrusive banner on the camera frame.
+        if status_text_override:
+            # place near top-left under any window chrome
+            text_color = self.visualization.COLORS.get('alert', (30, 90, 200))
+            bg_color = (24, 30, 36)
+            self.visualization.draw_text_with_background(frame, status_text_override, (20, 56), text_color, 0.7, 2, bg_color)
+
+        # Show a concise alarm badge if active
+        self.visualization.draw_alarm_status(frame, self.alarm.is_active())
         
         return frame
     

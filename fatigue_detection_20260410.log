@@ -1,0 +1,485 @@
+2026-04-10 17:24:00,847 - INFO - logger - Initializing system components...
+2026-04-10 17:24:00,865 - INFO - logger - FaceDetector initialized successfully
+2026-04-10 17:24:01,244 - INFO - logger - System initialized successfully
+2026-04-10 17:24:01,246 - INFO - logger - Starting main detection loop
+2026-04-10 17:24:01,246 - INFO - logger - Click step 1 to launch simulation, step 2 to start driving, step 5 to stop, Q to quit
+2026-04-10 17:24:04,858 - INFO - logger - Simulation launched - waiting for vehicle start
+2026-04-10 17:24:13,018 - INFO - logger - Camera initialized: 640x480
+2026-04-10 17:24:13,020 - INFO - logger - Driving mode started - face analysis enabled
+2026-04-10 17:24:13,656 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:24:18,659 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:24:20,079 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-10 17:24:20,165 - DEBUG - logger - Eyes closed confirmed - EAR: 0.155, Frames: 20
+2026-04-10 17:24:20,397 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-10 17:24:20,398 - INFO - logger - Persistent alarm activated
+2026-04-10 17:24:20,621 - DEBUG - logger - Eyes closed confirmed - EAR: 0.202, Frames: 30
+2026-04-10 17:24:20,861 - DEBUG - logger - Eyes closed confirmed - EAR: 0.258, Frames: 20
+2026-04-10 17:24:23,687 - DEBUG - logger - Fatigue: 55% | State: ALERT | Alarm: ACTIVE
+2026-04-10 17:24:24,339 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-10 17:24:25,964 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-10 17:24:28,326 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-10 17:24:28,699 - INFO - logger - Persistent alarm deactivated
+2026-04-10 17:24:28,768 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:24:33,819 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:24:38,841 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:24:43,849 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:24:49,103 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:24:54,140 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:24:59,194 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:25:03,839 - INFO - logger - Shutting down system...
+2026-04-10 17:25:04,225 - INFO - logger - System shutdown complete
+2026-04-10 17:28:57,236 - INFO - logger - Initializing system components...
+2026-04-10 17:28:57,253 - INFO - logger - FaceDetector initialized successfully
+2026-04-10 17:28:57,631 - INFO - logger - System initialized successfully
+2026-04-10 17:28:57,631 - INFO - logger - Starting main detection loop
+2026-04-10 17:28:57,631 - INFO - logger - Click step 1 to launch simulation, step 2 to start driving, step 5 to stop, Q to quit
+2026-04-10 17:29:00,939 - INFO - logger - Simulation launched - waiting for vehicle start
+2026-04-10 17:29:09,280 - INFO - logger - Camera initialized: 640x480
+2026-04-10 17:29:09,280 - INFO - logger - Driving mode started - face analysis enabled
+2026-04-10 17:29:09,758 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:29:14,762 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:29:19,777 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:29:20,079 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-10 17:29:20,145 - DEBUG - logger - Eyes closed confirmed - EAR: 0.176, Frames: 20
+2026-04-10 17:29:20,419 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-10 17:29:20,420 - INFO - logger - Persistent alarm activated
+2026-04-10 17:29:20,639 - DEBUG - logger - Eyes closed confirmed - EAR: 0.170, Frames: 30
+2026-04-10 17:29:20,973 - DEBUG - logger - Eyes closed confirmed - EAR: 0.155, Frames: 40
+2026-04-10 17:29:21,294 - DEBUG - logger - Eyes closed confirmed - EAR: 0.168, Frames: 50
+2026-04-10 17:29:21,640 - DEBUG - logger - Eyes closed confirmed - EAR: 0.162, Frames: 60
+2026-04-10 17:29:21,984 - DEBUG - logger - Eyes closed confirmed - EAR: 0.161, Frames: 70
+2026-04-10 17:29:22,067 - DEBUG - logger - Eyes closed confirmed - EAR: 0.207, Frames: 70
+2026-04-10 17:29:22,224 - DEBUG - logger - Eyes closed confirmed - EAR: 0.260, Frames: 60
+2026-04-10 17:29:22,422 - DEBUG - logger - Eyes closed confirmed - EAR: 0.283, Frames: 50
+2026-04-10 17:29:22,688 - DEBUG - logger - Eyes closed confirmed - EAR: 0.286, Frames: 40
+2026-04-10 17:29:22,844 - DEBUG - logger - Eyes closed confirmed - EAR: 0.293, Frames: 30
+2026-04-10 17:29:22,997 - DEBUG - logger - Eyes closed confirmed - EAR: 0.283, Frames: 20
+2026-04-10 17:29:24,817 - DEBUG - logger - Fatigue: 83% | State: ALERT | Alarm: ACTIVE
+2026-04-10 17:29:26,621 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-10 17:29:27,992 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-10 17:29:29,829 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: ACTIVE
+2026-04-10 17:29:29,939 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-10 17:29:30,305 - INFO - logger - Persistent alarm deactivated
+2026-04-10 17:29:34,833 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:29:39,857 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:29:44,873 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:29:48,109 - INFO - logger - Shutting down system...
+2026-04-10 17:29:48,527 - INFO - logger - System shutdown complete
+2026-04-10 17:32:36,410 - INFO - logger - Initializing system components...
+2026-04-10 17:32:36,434 - INFO - logger - FaceDetector initialized successfully
+2026-04-10 17:32:36,893 - INFO - logger - System initialized successfully
+2026-04-10 17:32:36,893 - INFO - logger - Starting main detection loop
+2026-04-10 17:32:36,893 - INFO - logger - Click step 1 to launch simulation, step 2 to start driving, step 5 to stop, Q to quit
+2026-04-10 17:32:38,911 - INFO - logger - Simulation launched - waiting for vehicle start
+2026-04-10 17:32:46,596 - INFO - logger - Camera initialized: 640x480
+2026-04-10 17:32:46,597 - INFO - logger - Driving mode started - face analysis enabled
+2026-04-10 17:32:47,131 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:32:52,171 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:32:52,993 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-10 17:32:53,161 - DEBUG - logger - Eyes closed confirmed - EAR: 0.150, Frames: 20
+2026-04-10 17:32:53,382 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-10 17:32:53,382 - INFO - logger - Persistent alarm activated
+2026-04-10 17:32:53,567 - DEBUG - logger - Eyes closed confirmed - EAR: 0.168, Frames: 30
+2026-04-10 17:32:57,182 - DEBUG - logger - Fatigue: 59% | State: ALERT | Alarm: ACTIVE
+2026-04-10 17:32:57,952 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-10 17:32:59,440 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-10 17:33:01,302 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-10 17:33:01,686 - INFO - logger - Persistent alarm deactivated
+2026-04-10 17:33:02,194 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:33:07,268 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:33:15,680 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:33:17,680 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A DROITE
+2026-04-10 17:33:17,992 - WARNING - logger - Dangerous posture detected: VISAGE TOURNE A GAUCHE
+2026-04-10 17:33:18,072 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-10 17:33:18,600 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-10 17:33:18,601 - INFO - logger - Persistent alarm activated
+2026-04-10 17:33:20,384 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-10 17:33:20,746 - DEBUG - logger - Fatigue: 39% | State: FATIGUE | Alarm: ACTIVE
+2026-04-10 17:33:21,871 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-10 17:33:23,846 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-10 17:33:24,236 - INFO - logger - Persistent alarm deactivated
+2026-04-10 17:33:25,826 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:33:30,841 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:33:35,859 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:33:40,908 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:33:43,978 - INFO - logger - Shutting down system...
+2026-04-10 17:33:44,441 - INFO - logger - System shutdown complete
+2026-04-10 17:38:19,590 - INFO - logger - Initializing system components...
+2026-04-10 17:38:19,644 - INFO - logger - FaceDetector initialized successfully
+2026-04-10 17:38:20,170 - INFO - logger - System initialized successfully
+2026-04-10 17:38:20,172 - INFO - logger - Starting main detection loop
+2026-04-10 17:38:20,173 - INFO - logger - Click step 1 to launch simulation, step 2 to start driving, step 5 to stop, Q to quit
+2026-04-10 17:38:26,891 - INFO - logger - Simulation launched - waiting for vehicle start
+2026-04-10 17:38:47,904 - INFO - logger - Camera initialized: 640x480
+2026-04-10 17:38:47,905 - INFO - logger - Driving mode started - face analysis enabled
+2026-04-10 17:38:48,770 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:38:53,793 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:38:58,831 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:39:02,987 - INFO - logger - Shutting down system...
+2026-04-10 17:39:03,442 - INFO - logger - System shutdown complete
+2026-04-10 17:39:21,162 - INFO - logger - Initializing system components...
+2026-04-10 17:39:21,185 - INFO - logger - FaceDetector initialized successfully
+2026-04-10 17:39:21,567 - INFO - logger - System initialized successfully
+2026-04-10 17:39:21,567 - INFO - logger - Starting main detection loop
+2026-04-10 17:39:21,567 - INFO - logger - Click step 1 to launch simulation, step 2 to start driving, step 5 to stop, Q to quit
+2026-04-10 17:39:24,309 - INFO - logger - Simulation launched - waiting for vehicle start
+2026-04-10 17:39:36,921 - INFO - logger - Camera initialized: 640x480
+2026-04-10 17:39:36,921 - INFO - logger - Driving mode started - face analysis enabled
+2026-04-10 17:39:37,466 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:39:42,503 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:39:42,835 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-10 17:39:42,902 - DEBUG - logger - Eyes closed confirmed - EAR: 0.163, Frames: 20
+2026-04-10 17:39:43,108 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-10 17:39:43,109 - INFO - logger - Persistent alarm activated
+2026-04-10 17:39:43,238 - DEBUG - logger - Eyes closed confirmed - EAR: 0.156, Frames: 30
+2026-04-10 17:39:43,571 - DEBUG - logger - Eyes closed confirmed - EAR: 0.150, Frames: 40
+2026-04-10 17:39:47,208 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-10 17:39:47,526 - DEBUG - logger - Fatigue: 38% | State: FATIGUE | Alarm: ACTIVE
+2026-04-10 17:39:48,275 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-10 17:39:49,736 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-10 17:39:50,004 - INFO - logger - Persistent alarm deactivated
+2026-04-10 17:39:52,531 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:39:56,601 - INFO - logger - Driving mode stopped - face analysis disabled
+2026-04-10 17:40:09,440 - INFO - logger - Camera initialized: 640x480
+2026-04-10 17:40:09,441 - INFO - logger - Driving mode started - face analysis enabled
+2026-04-10 17:40:09,909 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:40:14,947 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:40:16,486 - INFO - logger - Shutting down system...
+2026-04-10 17:40:16,904 - INFO - logger - System shutdown complete
+2026-04-10 17:48:14,903 - INFO - logger - Initializing system components...
+2026-04-10 17:48:14,923 - INFO - logger - FaceDetector initialized successfully
+2026-04-10 17:48:15,392 - INFO - logger - System initialized successfully
+2026-04-10 17:48:15,392 - INFO - logger - Starting main detection loop
+2026-04-10 17:48:15,392 - INFO - logger - Click step 1 to launch simulation, step 2 to start driving, step 5 to stop, Q to quit
+2026-04-10 17:48:17,734 - INFO - logger - Simulation launched - waiting for vehicle start
+2026-04-10 17:48:25,582 - INFO - logger - Camera initialized: 640x480
+2026-04-10 17:48:25,582 - INFO - logger - Driving mode started - face analysis enabled
+2026-04-10 17:48:27,041 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:48:32,056 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:48:33,110 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-10 17:48:33,186 - DEBUG - logger - Eyes closed confirmed - EAR: 0.192, Frames: 20
+2026-04-10 17:48:33,378 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-10 17:48:33,379 - INFO - logger - Persistent alarm activated
+2026-04-10 17:48:33,868 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-10 17:48:34,449 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-10 17:48:34,602 - DEBUG - logger - Eyes closed confirmed - EAR: 0.172, Frames: 20
+2026-04-10 17:48:34,934 - DEBUG - logger - Eyes closed confirmed - EAR: 0.207, Frames: 30
+2026-04-10 17:48:35,346 - INFO - logger - Persistent alarm deactivated
+2026-04-10 17:48:35,376 - INFO - logger - Persistent alarm activated
+2026-04-10 17:48:35,779 - INFO - logger - Persistent alarm deactivated
+2026-04-10 17:48:35,803 - INFO - logger - Persistent alarm activated
+2026-04-10 17:48:36,012 - DEBUG - logger - Eyes closed confirmed - EAR: 0.160, Frames: 30
+2026-04-10 17:48:36,351 - DEBUG - logger - Eyes closed confirmed - EAR: 0.151, Frames: 40
+2026-04-10 17:48:36,678 - DEBUG - logger - Eyes closed confirmed - EAR: 0.158, Frames: 50
+2026-04-10 17:48:37,060 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-10 17:48:40,815 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-10 17:48:41,840 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-10 17:48:42,066 - DEBUG - logger - Fatigue: 14% | State: NORMAL | Alarm: ACTIVE
+2026-04-10 17:48:43,315 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-10 17:48:43,553 - INFO - logger - Persistent alarm deactivated
+2026-04-10 17:48:47,093 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:48:47,173 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A DROITE
+2026-04-10 17:48:47,359 - WARNING - logger - Dangerous posture detected: VISAGE TOURNE A GAUCHE
+2026-04-10 17:48:47,426 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A DROITE
+2026-04-10 17:48:47,492 - WARNING - logger - Dangerous posture detected: VISAGE TOURNE A GAUCHE
+2026-04-10 17:48:47,492 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-10 17:48:47,574 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A DROITE
+2026-04-10 17:48:47,618 - WARNING - logger - Dangerous posture detected: VISAGE TOURNE A GAUCHE
+2026-04-10 17:48:47,727 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A DROITE
+2026-04-10 17:48:47,760 - WARNING - logger - Dangerous posture detected: VISAGE TOURNE A GAUCHE
+2026-04-10 17:48:47,850 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A DROITE
+2026-04-10 17:48:47,911 - WARNING - logger - Dangerous posture detected: VISAGE TOURNE A GAUCHE
+2026-04-10 17:48:47,911 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-10 17:48:47,912 - INFO - logger - Persistent alarm activated
+2026-04-10 17:48:48,105 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A DROITE
+2026-04-10 17:48:48,227 - WARNING - logger - Dangerous posture detected: VISAGE TOURNE A GAUCHE
+2026-04-10 17:48:48,251 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A DROITE
+2026-04-10 17:48:48,497 - WARNING - logger - Dangerous posture detected: VISAGE TOURNE A GAUCHE
+2026-04-10 17:48:48,561 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A DROITE
+2026-04-10 17:48:48,585 - WARNING - logger - Dangerous posture detected: VISAGE TOURNE A GAUCHE
+2026-04-10 17:48:48,624 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A DROITE
+2026-04-10 17:48:50,125 - WARNING - logger - Dangerous posture detected: VISAGE TOURNE A GAUCHE
+2026-04-10 17:48:50,164 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A DROITE
+2026-04-10 17:48:50,841 - WARNING - logger - Dangerous posture detected: VISAGE TOURNE A GAUCHE
+2026-04-10 17:48:50,870 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A DROITE
+2026-04-10 17:48:52,097 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-10 17:48:52,178 - WARNING - logger - Dangerous posture detected: VISAGE TOURNE A GAUCHE
+2026-04-10 17:48:52,241 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A DROITE
+2026-04-10 17:48:57,119 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-10 17:48:59,606 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-10 17:49:00,658 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-10 17:49:02,127 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-10 17:49:02,127 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:49:02,404 - INFO - logger - Persistent alarm deactivated
+2026-04-10 17:49:06,845 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-10 17:49:06,899 - DEBUG - logger - Eyes closed confirmed - EAR: 0.150, Frames: 20
+2026-04-10 17:49:07,112 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-10 17:49:07,114 - INFO - logger - Persistent alarm activated
+2026-04-10 17:49:07,155 - DEBUG - logger - Fatigue: 48% | State: ALERT | Alarm: ACTIVE
+2026-04-10 17:49:07,239 - DEBUG - logger - Eyes closed confirmed - EAR: 0.158, Frames: 30
+2026-04-10 17:49:09,980 - DEBUG - logger - Eyes closed confirmed - EAR: 0.151, Frames: 20
+2026-04-10 17:49:10,312 - DEBUG - logger - Eyes closed confirmed - EAR: 0.154, Frames: 30
+2026-04-10 17:49:10,645 - DEBUG - logger - Eyes closed confirmed - EAR: 0.155, Frames: 40
+2026-04-10 17:49:10,995 - DEBUG - logger - Eyes closed confirmed - EAR: 0.160, Frames: 50
+2026-04-10 17:49:11,326 - DEBUG - logger - Eyes closed confirmed - EAR: 0.159, Frames: 60
+2026-04-10 17:49:11,651 - DEBUG - logger - Eyes closed confirmed - EAR: 0.159, Frames: 70
+2026-04-10 17:49:12,101 - DEBUG - logger - Eyes closed confirmed - EAR: 0.159, Frames: 80
+2026-04-10 17:49:12,164 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-10 17:49:13,109 - DEBUG - logger - Eyes closed confirmed - EAR: 0.172, Frames: 60
+2026-04-10 17:49:13,295 - DEBUG - logger - Eyes closed confirmed - EAR: 0.175, Frames: 50
+2026-04-10 17:49:13,443 - DEBUG - logger - Eyes closed confirmed - EAR: 0.181, Frames: 40
+2026-04-10 17:49:13,642 - DEBUG - logger - Eyes closed confirmed - EAR: 0.185, Frames: 30
+2026-04-10 17:49:13,782 - DEBUG - logger - Eyes closed confirmed - EAR: 0.175, Frames: 20
+2026-04-10 17:49:17,185 - DEBUG - logger - Fatigue: 55% | State: ALERT | Alarm: ACTIVE
+2026-04-10 17:49:17,614 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-10 17:49:18,673 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-10 17:49:20,151 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-10 17:49:20,496 - INFO - logger - Persistent alarm deactivated
+2026-04-10 17:49:22,195 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:49:27,218 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:49:32,223 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:49:37,249 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:49:39,669 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-10 17:49:39,858 - DEBUG - logger - Eyes closed confirmed - EAR: 0.157, Frames: 20
+2026-04-10 17:49:39,951 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-10 17:49:39,952 - INFO - logger - Persistent alarm activated
+2026-04-10 17:49:40,257 - DEBUG - logger - Eyes closed confirmed - EAR: 0.166, Frames: 20
+2026-04-10 17:49:42,254 - DEBUG - logger - Fatigue: 58% | State: ALERT | Alarm: ACTIVE
+2026-04-10 17:49:42,838 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-10 17:49:43,859 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-10 17:49:44,578 - INFO - logger - Persistent alarm deactivated
+2026-04-10 17:49:44,745 - INFO - logger - Persistent alarm activated
+2026-04-10 17:49:45,843 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-10 17:49:46,156 - INFO - logger - Persistent alarm deactivated
+2026-04-10 17:49:47,289 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:49:52,956 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:49:57,987 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:50:02,992 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:50:08,020 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:50:11,314 - INFO - logger - Shutting down system...
+2026-04-10 17:50:11,697 - INFO - logger - System shutdown complete
+2026-04-10 17:50:33,987 - INFO - logger - Initializing system components...
+2026-04-10 17:50:34,005 - INFO - logger - FaceDetector initialized successfully
+2026-04-10 17:50:34,363 - INFO - logger - System initialized successfully
+2026-04-10 17:50:34,364 - INFO - logger - Starting main detection loop
+2026-04-10 17:50:34,364 - INFO - logger - Click step 1 to launch simulation, step 2 to start driving, step 5 to stop, Q to quit
+2026-04-10 17:50:38,768 - INFO - logger - Shutting down system...
+2026-04-10 17:50:38,791 - INFO - logger - System shutdown complete
+2026-04-10 17:56:35,073 - INFO - logger - Initializing system components...
+2026-04-10 17:56:35,099 - INFO - logger - FaceDetector initialized successfully
+2026-04-10 17:56:35,426 - INFO - logger - System initialized successfully
+2026-04-10 17:56:35,426 - INFO - logger - Starting main detection loop
+2026-04-10 17:56:35,426 - INFO - logger - Click step 1 to launch simulation, step 2 to start driving, step 5 to stop, Q to quit
+2026-04-10 17:56:41,173 - INFO - logger - Simulation launched - waiting for vehicle start
+2026-04-10 17:56:50,833 - INFO - logger - Camera initialized: 640x480
+2026-04-10 17:56:50,834 - INFO - logger - Driving mode started - face analysis enabled
+2026-04-10 17:57:04,443 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:57:09,496 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:57:14,508 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:57:19,513 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:57:20,092 - INFO - logger - Driving mode stopped - face analysis disabled
+2026-04-10 17:57:44,021 - INFO - logger - Camera initialized: 640x480
+2026-04-10 17:57:44,022 - INFO - logger - Driving mode started - face analysis enabled
+2026-04-10 17:57:44,522 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 17:57:48,402 - INFO - logger - Shutting down system...
+2026-04-10 17:57:48,853 - INFO - logger - System shutdown complete
+2026-04-10 17:57:57,625 - INFO - logger - Initializing system components...
+2026-04-10 17:57:57,642 - INFO - logger - FaceDetector initialized successfully
+2026-04-10 17:57:57,981 - INFO - logger - System initialized successfully
+2026-04-10 17:57:57,983 - INFO - logger - Starting main detection loop
+2026-04-10 17:57:57,983 - INFO - logger - Click step 1 to launch simulation, step 2 to start driving, step 5 to stop, Q to quit
+2026-04-10 17:58:03,743 - INFO - logger - Shutting down system...
+2026-04-10 17:58:03,769 - INFO - logger - System shutdown complete
+2026-04-10 18:01:43,527 - INFO - logger - Initializing system components...
+2026-04-10 18:01:43,547 - INFO - logger - FaceDetector initialized successfully
+2026-04-10 18:01:43,619 - INFO - logger - System initialized successfully
+2026-04-10 18:01:43,619 - INFO - logger - Starting main detection loop
+2026-04-10 18:01:43,620 - INFO - logger - Click step 1 to launch simulation, step 2 to start driving, step 5 to stop, Q to quit
+2026-04-10 18:01:45,386 - INFO - logger - Simulation launched - waiting for vehicle start
+2026-04-10 18:01:54,458 - INFO - logger - Camera initialized: 640x480
+2026-04-10 18:01:54,458 - INFO - logger - Driving mode started - face analysis enabled
+2026-04-10 18:01:54,990 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:02:00,030 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:02:05,103 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:02:06,902 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-10 18:02:06,969 - DEBUG - logger - Eyes closed confirmed - EAR: 0.174, Frames: 20
+2026-04-10 18:02:07,272 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-10 18:02:07,273 - INFO - logger - Persistent alarm activated
+2026-04-10 18:02:07,401 - DEBUG - logger - Eyes closed confirmed - EAR: 0.172, Frames: 30
+2026-04-10 18:02:10,114 - DEBUG - logger - Fatigue: 64% | State: ALERT | Alarm: ACTIVE
+2026-04-10 18:02:10,916 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-10 18:02:11,996 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-10 18:02:13,571 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-10 18:02:13,610 - INFO - logger - Persistent alarm deactivated
+2026-04-10 18:02:15,129 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:02:23,822 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:02:28,882 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:02:33,957 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:02:39,028 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:02:40,168 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A DROITE
+2026-04-10 18:02:40,495 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-10 18:02:40,923 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-10 18:02:40,924 - INFO - logger - Persistent alarm activated
+2026-04-10 18:02:44,035 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-10 18:02:49,058 - DEBUG - logger - Fatigue: 68% | State: ALERT | Alarm: ACTIVE
+2026-04-10 18:02:49,978 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-10 18:02:51,244 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-10 18:02:53,205 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-10 18:02:53,602 - INFO - logger - Persistent alarm deactivated
+2026-04-10 18:02:54,118 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:02:59,189 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:03:02,933 - INFO - logger - Shutting down system...
+2026-04-10 18:03:03,387 - INFO - logger - System shutdown complete
+2026-04-10 18:05:20,883 - INFO - logger - Initializing system components...
+2026-04-10 18:05:20,904 - INFO - logger - FaceDetector initialized successfully
+2026-04-10 18:05:21,005 - INFO - logger - System initialized successfully
+2026-04-10 18:05:21,008 - INFO - logger - Starting main detection loop
+2026-04-10 18:05:21,009 - INFO - logger - Click step 1 to launch simulation, step 2 to start driving, step 5 to stop, Q to quit
+2026-04-10 18:05:22,866 - INFO - logger - Simulation launched - waiting for vehicle start
+2026-04-10 18:05:30,803 - INFO - logger - Camera initialized: 640x480
+2026-04-10 18:05:30,803 - INFO - logger - Driving mode started - face analysis enabled
+2026-04-10 18:05:31,350 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:05:34,730 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-10 18:05:34,806 - DEBUG - logger - Eyes closed confirmed - EAR: 0.153, Frames: 20
+2026-04-10 18:05:35,012 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-10 18:05:35,013 - INFO - logger - Persistent alarm activated
+2026-04-10 18:05:35,127 - DEBUG - logger - Eyes closed confirmed - EAR: 0.153, Frames: 30
+2026-04-10 18:05:35,478 - DEBUG - logger - Eyes closed confirmed - EAR: 0.157, Frames: 40
+2026-04-10 18:05:35,799 - DEBUG - logger - Eyes closed confirmed - EAR: 0.151, Frames: 50
+2026-04-10 18:05:36,157 - DEBUG - logger - Eyes closed confirmed - EAR: 0.152, Frames: 60
+2026-04-10 18:05:36,383 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-10 18:05:36,451 - DEBUG - logger - Eyes closed confirmed - EAR: 0.169, Frames: 70
+2026-04-10 18:05:41,390 - DEBUG - logger - Fatigue: 54% | State: ALERT | Alarm: ACTIVE
+2026-04-10 18:05:42,006 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-10 18:05:43,354 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-10 18:05:45,332 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-10 18:05:45,587 - INFO - logger - Persistent alarm deactivated
+2026-04-10 18:05:46,407 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:05:51,485 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:05:56,550 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:06:01,626 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:06:06,702 - DEBUG - logger - Fatigue: 3% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:06:07,277 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-10 18:06:07,937 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-10 18:06:07,938 - INFO - logger - Persistent alarm activated
+2026-04-10 18:06:11,710 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-10 18:06:13,575 - INFO - logger - Persistent alarm deactivated
+2026-04-10 18:06:13,615 - INFO - logger - Persistent alarm activated
+2026-04-10 18:06:14,018 - INFO - logger - Persistent alarm deactivated
+2026-04-10 18:06:14,039 - INFO - logger - Persistent alarm activated
+2026-04-10 18:06:16,732 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-10 18:06:19,980 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-10 18:06:21,048 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-10 18:06:21,774 - DEBUG - logger - Fatigue: 2% | State: NORMAL | Alarm: ACTIVE
+2026-04-10 18:06:22,502 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-10 18:06:22,899 - INFO - logger - Persistent alarm deactivated
+2026-04-10 18:06:26,776 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:06:31,799 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:06:36,799 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:06:41,804 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:06:46,816 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:06:48,648 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-10 18:06:48,696 - DEBUG - logger - Eyes closed confirmed - EAR: 0.156, Frames: 20
+2026-04-10 18:06:48,907 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-10 18:06:48,908 - INFO - logger - Persistent alarm activated
+2026-04-10 18:06:49,050 - DEBUG - logger - Eyes closed confirmed - EAR: 0.155, Frames: 30
+2026-04-10 18:06:50,318 - INFO - logger - Persistent alarm deactivated
+2026-04-10 18:06:50,478 - INFO - logger - Persistent alarm activated
+2026-04-10 18:06:51,031 - INFO - logger - Persistent alarm deactivated
+2026-04-10 18:06:53,896 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-10 18:06:53,897 - INFO - logger - Persistent alarm activated
+2026-04-10 18:06:55,004 - INFO - logger - Persistent alarm deactivated
+2026-04-10 18:06:55,176 - INFO - logger - Persistent alarm activated
+2026-04-10 18:06:55,763 - DEBUG - logger - Eyes closed confirmed - EAR: 0.183, Frames: 20
+2026-04-10 18:06:55,957 - DEBUG - logger - Eyes closed confirmed - EAR: 0.230, Frames: 20
+2026-04-10 18:06:58,921 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-10 18:07:01,204 - DEBUG - logger - Eyes closed confirmed - EAR: 0.166, Frames: 20
+2026-04-10 18:07:01,309 - DEBUG - logger - Eyes closed confirmed - EAR: 0.167, Frames: 20
+2026-04-10 18:07:03,940 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-10 18:07:04,337 - INFO - logger - Persistent alarm deactivated
+2026-04-10 18:07:04,728 - INFO - logger - Persistent alarm activated
+2026-04-10 18:07:08,953 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-10 18:07:13,614 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-10 18:07:13,973 - DEBUG - logger - Fatigue: 36% | State: FATIGUE | Alarm: ACTIVE
+2026-04-10 18:07:14,688 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-10 18:07:16,159 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-10 18:07:16,550 - INFO - logger - Persistent alarm deactivated
+2026-04-10 18:07:18,981 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:07:23,983 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:07:28,984 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:07:34,054 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:07:39,114 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:07:40,875 - INFO - logger - Persistent alarm activated
+2026-04-10 18:07:41,276 - INFO - logger - Persistent alarm deactivated
+2026-04-10 18:07:41,932 - INFO - logger - Persistent alarm activated
+2026-04-10 18:07:42,335 - INFO - logger - Persistent alarm deactivated
+2026-04-10 18:07:44,135 - DEBUG - logger - Fatigue: 14% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:07:44,332 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-10 18:07:44,865 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-10 18:07:44,866 - INFO - logger - Persistent alarm activated
+2026-04-10 18:07:45,572 - INFO - logger - Persistent alarm deactivated
+2026-04-10 18:07:46,211 - INFO - logger - Persistent alarm activated
+2026-04-10 18:07:46,766 - INFO - logger - Persistent alarm deactivated
+2026-04-10 18:07:47,424 - INFO - logger - Persistent alarm activated
+2026-04-10 18:07:49,139 - DEBUG - logger - Fatigue: 65% | State: ALERT | Alarm: ACTIVE
+2026-04-10 18:07:50,094 - INFO - logger - Persistent alarm deactivated
+2026-04-10 18:07:52,232 - INFO - logger - Persistent alarm activated
+2026-04-10 18:07:52,392 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-10 18:07:53,437 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-10 18:07:54,156 - DEBUG - logger - Fatigue: 4% | State: NORMAL | Alarm: ACTIVE
+2026-04-10 18:07:54,530 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-10 18:07:54,652 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-10 18:07:55,028 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-10 18:07:55,049 - INFO - logger - Persistent alarm deactivated
+2026-04-10 18:07:59,278 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:08:03,878 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A GAUCHE
+2026-04-10 18:08:04,280 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-10 18:08:04,281 - DEBUG - logger - Fatigue: 20% | State: FATIGUE | Alarm: INACTIVE
+2026-04-10 18:08:04,898 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-10 18:08:04,899 - INFO - logger - Persistent alarm activated
+2026-04-10 18:08:09,299 - DEBUG - logger - Fatigue: 97% | State: ALERT | Alarm: ACTIVE
+2026-04-10 18:08:11,977 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-10 18:08:13,040 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-10 18:08:14,311 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: ACTIVE
+2026-04-10 18:08:14,517 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-10 18:08:14,762 - INFO - logger - Persistent alarm deactivated
+2026-04-10 18:08:19,315 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:08:24,320 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:08:28,979 - WARNING - logger - Dangerous posture detected: TETE TOURNEE COMPLETEMENT A GAUCHE
+2026-04-10 18:08:29,348 - DEBUG - logger - Fatigue: 16% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:08:29,410 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-10 18:08:29,453 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-10 18:08:34,397 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:08:39,413 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:08:44,414 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:08:49,427 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:08:54,430 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:08:55,967 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-10 18:08:56,512 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-10 18:08:56,513 - INFO - logger - Persistent alarm activated
+2026-04-10 18:08:59,025 - INFO - logger - Persistent alarm deactivated
+2026-04-10 18:08:59,524 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-10 18:08:59,526 - INFO - logger - Persistent alarm activated
+2026-04-10 18:09:00,230 - INFO - logger - Persistent alarm deactivated
+2026-04-10 18:09:00,273 - INFO - logger - Persistent alarm activated
+2026-04-10 18:09:04,527 - DEBUG - logger - Fatigue: 81% | State: ALERT | Alarm: ACTIVE
+2026-04-10 18:09:06,020 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-10 18:09:07,090 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-10 18:09:08,561 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-10 18:09:08,727 - INFO - logger - Persistent alarm deactivated
+2026-04-10 18:09:09,552 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:09:12,379 - INFO - logger - State changed: NORMAL -> FATIGUE
+2026-04-10 18:09:12,898 - INFO - logger - State changed: FATIGUE -> ALERT
+2026-04-10 18:09:12,899 - INFO - logger - Persistent alarm activated
+2026-04-10 18:09:14,572 - DEBUG - logger - Fatigue: 100% | State: ALERT | Alarm: ACTIVE
+2026-04-10 18:09:19,583 - DEBUG - logger - Fatigue: 72% | State: ALERT | Alarm: ACTIVE
+2026-04-10 18:09:20,718 - INFO - logger - State changed: ALERT -> FATIGUE
+2026-04-10 18:09:21,790 - INFO - logger - State changed: FATIGUE -> NORMAL
+2026-04-10 18:09:23,255 - INFO - logger - Alarm stopped - Driver returned to normal state
+2026-04-10 18:09:23,479 - INFO - logger - Persistent alarm deactivated
+2026-04-10 18:09:24,598 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:09:26,141 - INFO - logger - Persistent alarm activated
+2026-04-10 18:09:27,247 - INFO - logger - Persistent alarm deactivated
+2026-04-10 18:09:29,604 - DEBUG - logger - Fatigue: 0% | State: NORMAL | Alarm: INACTIVE
+2026-04-10 18:09:34,006 - INFO - logger - Shutting down system...
+2026-04-10 18:09:34,487 - INFO - logger - System shutdown complete
